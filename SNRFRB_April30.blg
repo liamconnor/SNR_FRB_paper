@@ -7,45 +7,45 @@ Database file #2: SNRFRB_April30.bib
 Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty publisher in 2014ira..book.....B
-You've used 20 entries,
+You've used 21 entries,
             3085 wiz_defined-function locations,
-            797 strings with 9532 characters,
-and the built_in function-call counts, 9432 in all, are:
-= -- 755
-> -- 705
+            806 strings with 9784 characters,
+and the built_in function-call counts, 9985 in all, are:
+= -- 802
+> -- 751
 < -- 11
-+ -- 234
-- -- 250
-* -- 803
-:= -- 1809
-add.period$ -- 20
-call.type$ -- 20
-change.case$ -- 127
-chr.to.int$ -- 20
-cite$ -- 21
-duplicate$ -- 379
-empty$ -- 568
-format.name$ -- 279
-if$ -- 1856
++ -- 250
+- -- 269
+* -- 853
+:= -- 1912
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 136
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 398
+empty$ -- 596
+format.name$ -- 297
+if$ -- 1964
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 19
-newline$ -- 64
-num.names$ -- 80
-pop$ -- 136
+missing$ -- 20
+newline$ -- 67
+num.names$ -- 84
+pop$ -- 146
 preamble$ -- 1
-purify$ -- 127
+purify$ -- 136
 quote$ -- 0
-skip$ -- 316
+skip$ -- 331
 stack$ -- 0
-substring$ -- 372
+substring$ -- 393
 swap$ -- 6
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 177
+type$ -- 186
 warning$ -- 1
-while$ -- 72
+while$ -- 76
 width$ -- 0
-write$ -- 202
+write$ -- 212
 (There were 2 warnings)
