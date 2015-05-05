@@ -1,57 +1,51 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: SNRFRB_April30.aux
-White space in argument---line 23 of file SNRFRB_April30.aux
- : \citation{vela/crab
- :                     source}
-I'm skipping whatever remains of this command
 The style file: emulateapj.bst
 Database file #1: SNRFRB_April30Notes.bib
 Database file #2: SNRFRB_April30.bib
-Warning--I didn't find a database entry for "1987obs"
-Warning--I didn't find a database entry for "burke/smith"
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "http://arxiv.org/pdf/1405.5945.pdf"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 13 entries,
+Warning--empty publisher in 2014ira..book.....B
+You've used 19 entries,
             3085 wiz_defined-function locations,
-            747 strings with 7420 characters,
-and the built_in function-call counts, 5807 in all, are:
-= -- 478
-> -- 403
-< -- 8
-+ -- 133
-- -- 140
-* -- 478
-:= -- 1122
-add.period$ -- 13
-call.type$ -- 13
-change.case$ -- 79
-chr.to.int$ -- 13
-cite$ -- 13
-duplicate$ -- 241
-empty$ -- 359
-format.name$ -- 162
-if$ -- 1145
+            789 strings with 9153 characters,
+and the built_in function-call counts, 8831 in all, are:
+= -- 705
+> -- 652
+< -- 11
++ -- 215
+- -- 229
+* -- 748
+:= -- 1694
+add.period$ -- 19
+call.type$ -- 19
+change.case$ -- 116
+chr.to.int$ -- 19
+cite$ -- 20
+duplicate$ -- 360
+empty$ -- 540
+format.name$ -- 258
+if$ -- 1741
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 13
-newline$ -- 43
-num.names$ -- 52
-pop$ -- 79
+missing$ -- 18
+newline$ -- 61
+num.names$ -- 76
+pop$ -- 124
 preamble$ -- 1
-purify$ -- 79
+purify$ -- 116
 quote$ -- 0
-skip$ -- 201
+skip$ -- 301
 stack$ -- 0
-substring$ -- 241
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 351
+swap$ -- 6
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 117
-warning$ -- 0
-while$ -- 47
+type$ -- 168
+warning$ -- 1
+while$ -- 68
 width$ -- 0
-write$ -- 133
-(There was 1 error message)
+write$ -- 192
+(There were 2 warnings)

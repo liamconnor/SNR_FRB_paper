@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  5 MAY 2015 09:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  5 MAY 2015 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,62 +395,46 @@ l.65 T
 ? s
 OK, entering \scrollmode...
 
-./SNRFRB_April30.tex:104: LaTeX Error: There's no line here to end.
+./SNRFRB_April30.tex:105: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 I
+l.105 I
        n this letter we propose a new non-cosmological but extragalactic
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Package natbib Warning: Citation `2014ApJ...796...82Z' on page 1 undefined on i
-nput line 125.
-
-
-Package natbib Warning: Citation `2014ApJ...794..174P' on page 1 undefined on i
-nput line 126.
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 116--136
+Underfull \hbox (badness 1377) in paragraph at lines 117--137
 []\OT1/cmr/m/n/10 Of or-der 10$[]1$ ergs of ki-netic en-ergy is re-leased
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 116--136
+Underfull \hbox (badness 2790) in paragraph at lines 117--137
 \OT1/cmr/m/n/10 dur-ing a su-per-nova, a frac-tion of which is con-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 116--136
+Underfull \hbox (badness 1281) in paragraph at lines 117--137
 \OT1/cmr/m/n/10 verted into ther-mal en-ergy af-ter shock wave heat-
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 116--136
+Underfull \hbox (badness 4048) in paragraph at lines 117--137
 \OT1/cmr/m/n/10 ing of the ejecta plasma. Though the shock-
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 116--136
+Underfull \hbox (badness 1237) in paragraph at lines 117--137
 \OT1/cmr/m/n/10 heated ejacta atoms are fully ion-ized shortly af-ter
  []
 
 [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `1987obs' on page 2 undefined on input line 14
-8.
-
-
-Package natbib Warning: Citation `burke/smith' on page 2 undefined on input lin
-e 167.
-
-./SNRFRB_April30.tex:174: Extra }, or forgotten $.
-l.174 ...ainty in $\left < B_{\parallel} \right >}
+./SNRFRB_April30.tex:175: Extra }, or forgotten $.
+l.175 ...ainty in $\left < B_{\parallel} \right >}
                                                   $ given $B_{\parallel}$ is...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -458,70 +442,68 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-<FRB_SNR_rate.png, id=18, 722.7pt x 433.62pt>
+<FRB_SNR_rate.png, id=17, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 204.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 205.
 (pdftex.def)             Requested size: 256.55872pt x 153.93286pt.
 
-Overfull \hbox (11.29219pt too wide) in paragraph at lines 204--205
+Overfull \hbox (11.29219pt too wide) in paragraph at lines 205--206
  [][] 
  []
 
-./SNRFRB_April30.tex:236: Missing $ inserted.
+./SNRFRB_April30.tex:237: Missing $ inserted.
 <inserted text> 
                 $
-l.236 These supergiant pulses would require 10^
+l.237 These supergiant pulses would require 10^
                                                {36 - 37}$ ergs of output,
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+[2 <./FRB_SNR_rate.png>]
 
-Package natbib Warning: Citation `http://arxiv.org/pdf/1405.5945.pdf' on page 2
- undefined on input line 274.
+./SNRFRB_April30.tex:289: LaTeX Error: There's no line here to end.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 F
+       inally, depending on the relationship between the giant pulse rate an...
 
-Package natbib Warning: Citation `vela/crab source' on page 2 undefined on inpu
-t line 282.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-[2 <./FRB_SNR_rate.png>] (./SNRFRB_April30.bbl)
-
-Package natbib Warning: There were undefined citations.
-
-[3] (./SNRFRB_April30.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) ) 
+(./SNRFRB_April30.bbl) [3] (./SNRFRB_April30.aux) ) 
 Here is how much of TeX's memory you used:
- 4952 strings out of 493315
- 65485 string characters out of 6137904
- 155835 words of memory out of 5000000
- 8323 multiletter control sequences out of 15000+600000
- 11221 words of font info for 46 fonts, out of 8000000 for 9000
+ 4973 strings out of 493315
+ 66058 string characters out of 6137904
+ 158738 words of memory out of 5000000
+ 8345 multiletter control sequences out of 15000+600000
+ 10913 words of font info for 45 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,7n,28p,504b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
-l/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
-exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
-3/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/
-texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30.pdf (3 pages, 244585 bytes).
+</usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2013/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2013/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/symbols/msam10.pfb>
+Output written on SNRFRB_April30.pdf (3 pages, 236843 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 77 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

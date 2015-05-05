@@ -1,12 +1,26 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{{Bandura}(2014)}]{2014SPIE.9145E..22B}
+{Bandura}, K. e.~a. 2014, in Society of Photo-Optical Instrumentation Engineers
+  (SPIE) Conference Series, Vol. 9145, Society of Photo-Optical Instrumentation
+  Engineers (SPIE) Conference Series, 22
+
 \bibitem[{{Bower} {et~al.}(2014){Bower}, {Deller}, {Demorest}, {Brunthaler},
   {Eatough}, {Falcke}, {Kramer}, {Lee}, \& {Spitler}}]{2014ApJ...780L...2B}
 {Bower}, G.~C., {Deller}, A., {Demorest}, P., {et~al.} 2014, \apjl, 780, L2
 
+\bibitem[{{Burke} \& {Graham-Smith}(2014)}]{2014ira..book.....B}
+{Burke}, B.~F., \& {Graham-Smith}, F. 2014, {An Introduction to Radio
+  Astronomy}
+
 \bibitem[{{Falcke} \& {Rezzolla}(2014)}]{2014A&A...562A.137F}
 {Falcke}, H., \& {Rezzolla}, L. 2014, \aap, 562, A137
+
+\bibitem[{{Kuzmin} {et~al.}(2008){Kuzmin}, {Losovsky}, {Jordan}, \&
+  {Smith}}]{2008A&A...483...13K}
+{Kuzmin}, A., {Losovsky}, B.~Y., {Jordan}, C.~A., \& {Smith}, F.~G. 2008, \aap,
+  483, 13
 
 \bibitem[{{Lorimer} {et~al.}(2007){Lorimer}, {Bailes}, {McLaughlin},
   {Narkevic}, \& {Crawford}}]{2007Sci...318..777L}
@@ -25,8 +39,22 @@
 {Mickaliger}, M.~B., {McLaughlin}, M.~A., {Lorimer}, D.~R., {et~al.} 2012,
   \apj, 760, 64
 
+\bibitem[{{Oppermann} {et~al.}(2015){Oppermann}, {Junklewitz}, {Greiner},
+  {En{\ss}lin}, {Akahori}, {Carretti}, {Gaensler}, {Goobar}, {Harvey-Smith},
+  {Johnston-Hollitt}, {Pratley}, {Schnitzeler}, {Stil}, \&
+  {Vacca}}]{2015A&A...575A.118O}
+{Oppermann}, N., {Junklewitz}, H., {Greiner}, M., {et~al.} 2015, \aap, 575,
+  A118
+
 \bibitem[{{Pen} \& {Connor}(2015)}]{2015arXiv150101341P}
 {Pen}, U.-L., \& {Connor}, L. 2015, ArXiv e-prints, arXiv:1501.01341
+
+\bibitem[{{Petroff} {et~al.}(2014){Petroff}, {van Straten}, {Johnston},
+  {Bailes}, {Barr}, {Bates}, {Bhat}, {Burgay}, {Burke-Spolaor}, {Champion},
+  {Coster}, {Flynn}, {Keane}, {Keith}, {Kramer}, {Levin}, {Ng}, {Possenti},
+  {Stappers}, {Tiburzi}, \& {Thornton}}]{2014ApJ...789L..26P}
+{Petroff}, E., {van Straten}, W., {Johnston}, S., {et~al.} 2014, \apjl, 789,
+  L26
 
 \bibitem[{{Petroff}(2014)}]{2014arXiv1412.0342P}
 {Petroff}, E. e.~a. 2014, ArXiv e-prints 1412.0342, arXiv:1412.0342
@@ -38,6 +66,11 @@
   {Bicknell}, {Sutherland}, \& {Wagner}}]{2014ApJ...794..174P}
 {Potter}, T.~M., {Staveley-Smith}, L., {Reville}, B., {et~al.} 2014, \apj, 794,
   174
+
+\bibitem[{{Rankin} {et~al.}(1988){Rankin}, {Campbell}, {Isaacman}, \&
+  {Payne}}]{1988A&A...202..166R}
+{Rankin}, J.~M., {Campbell}, D.~B., {Isaacman}, R.~B., \& {Payne}, R.~R. 1988,
+  \aap, 202, 166
 
 \bibitem[{{Thornton}(2013)}]{2013Sci...341...53T}
 {Thornton}, D. e.~a. 2013, Science, 341, 53
