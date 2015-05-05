@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  4 MAY 2015 22:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  4 MAY 2015 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,7 +7,7 @@ entering extended mode
 (./SNRFRB_April30.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/emulateapj/emulateapj.cls
+(./emulateapj.cls
 Document Class: emulateapj 
 \bibbaselineskip=\skip41
 (/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/revtex4-1.cls
@@ -69,20 +69,14 @@ Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
 \@bibdataout=\write3
 \widetext@top=\box39
 \widetext@bot=\box40
-
-Class revtex4-1 Warning: No Society specified, using default society aps.
-
+Class revtex4-1 Info: Selecting society aps on input line 7542.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps4-1.rtx
 File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
 mentation)
 Class revtex4-1 Info: RevTeX society APS selected on input line 31.
 )
-
-Class revtex4-1 Warning: No journal specified, using default pra.
-
+Class revtex4-1 Info: Selecting journal pra on input line 7544.
 Class revtex4-1 Info: APS journal PRA selected on input line 7545.
-
-Class revtex4-1 Warning: No type size specified, using default 10.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
 File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
@@ -401,63 +395,54 @@ l.65 T
 ? s
 OK, entering \scrollmode...
 
-Underfull \hbox (badness 4378) in paragraph at lines 75--88
-\OT1/cmr/m/n/10 (http://iopscience.iop.org/2041-8205/776/2/L39/) and
- []
-
-
-Package natbib Warning: Citation `goldreich' on page 1 undefined on input line 
-97.
-
-
-./SNRFRB_April30.tex:100: LaTeX Error: There's no line here to end.
+./SNRFRB_April30.tex:103: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 I
+l.103 I
        n this letter we propose a new non-cosmological but extragalactic
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 112--132
+Underfull \hbox (badness 1377) in paragraph at lines 115--135
 []\OT1/cmr/m/n/10 Of or-der 10$[]1$ ergs of ki-netic en-ergy is re-leased
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 112--132
+Underfull \hbox (badness 2790) in paragraph at lines 115--135
 \OT1/cmr/m/n/10 dur-ing a su-per-nova, a frac-tion of which is con-
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 112--132
+Underfull \hbox (badness 1281) in paragraph at lines 115--135
 \OT1/cmr/m/n/10 verted into ther-mal en-ergy af-ter shock wave heat-
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 112--132
+Underfull \hbox (badness 4048) in paragraph at lines 115--135
 \OT1/cmr/m/n/10 ing of the ejecta plasma. Though the shock-
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 112--132
+Underfull \hbox (badness 1237) in paragraph at lines 115--135
 \OT1/cmr/m/n/10 heated ejacta atoms are fully ion-ized shortly af-ter
  []
 
 [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package natbib Warning: Citation `1987obs' on page 2 undefined on input line 14
-4.
+7.
 
 
 Package natbib Warning: Citation `burke/smith' on page 2 undefined on input lin
-e 163.
+e 166.
 
-./SNRFRB_April30.tex:170: Extra }, or forgotten $.
-l.170 ...ainty in $\left < B_{\parallel} \right >}
+./SNRFRB_April30.tex:173: Extra }, or forgotten $.
+l.173 ...ainty in $\left < B_{\parallel} \right >}
                                                   $ given $B_{\parallel}$ is...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -466,53 +451,48 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Package natbib Warning: Citation `2013Sci...341...53T' on page 2 undefined on i
-nput line 177.
-
-
 Package natbib Warning: Citation `CCSneER' on page 2 undefined on input line 19
-0.
+3.
 
-<FRB_SNR_rate.png, id=19, 722.7pt x 433.62pt>
+<FRB_SNR_rate.png, id=17, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 201.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 204.
 (pdftex.def)             Requested size: 256.55872pt x 153.93286pt.
 
-Overfull \hbox (11.29219pt too wide) in paragraph at lines 201--202
+Overfull \hbox (11.29219pt too wide) in paragraph at lines 204--205
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-./SNRFRB_April30.tex:233: Missing $ inserted.
+./SNRFRB_April30.tex:236: Missing $ inserted.
 <inserted text> 
                 $
-l.233 These supergiant pulses would require 10^
+l.236 These supergiant pulses would require 10^
                                                {36 - 37}$ ergs of output,
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package natbib Warning: Citation `http://arxiv.org/pdf/1405.5945.pdf' on page 2
- undefined on input line 271.
+ undefined on input line 274.
 
 
 Package natbib Warning: Citation `vela/crab source' on page 2 undefined on inpu
-t line 279.
+t line 282.
 
-[2 <./FRB_SNR_rate.png>]
-No file SNRFRB_April30.bbl.
+[2 <./FRB_SNR_rate.png>] (./SNRFRB_April30.bbl)
 
 Package natbib Warning: There were undefined citations.
 
 [3] (./SNRFRB_April30.aux) ) 
 Here is how much of TeX's memory you used:
- 4884 strings out of 493315
- 64079 string characters out of 6137904
- 152614 words of memory out of 5000000
- 8257 multiletter control sequences out of 15000+600000
+ 4933 strings out of 493315
+ 64957 string characters out of 6137904
+ 153210 words of memory out of 5000000
+ 8304 multiletter control sequences out of 15000+600000
  11221 words of font info for 46 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,7n,28p,504b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -533,7 +513,7 @@ fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
 pfb>
-Output written on SNRFRB_April30.pdf (3 pages, 241143 bytes).
+Output written on SNRFRB_April30.pdf (3 pages, 244175 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
