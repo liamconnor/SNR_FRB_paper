@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: SNRFRB_April30.aux
-White space in argument---line 21 of file SNRFRB_April30.aux
+White space in argument---line 22 of file SNRFRB_April30.aux
  : \citation{vela/crab
  :                     source}
 I'm skipping whatever remains of this command
@@ -14,45 +14,45 @@ Warning--I didn't find a database entry for "burke/smith"
 Warning--I didn't find a database entry for "CCSneER"
 Warning--I didn't find a database entry for "http://arxiv.org/pdf/1405.5945.pdf"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 8 entries,
+You've used 9 entries,
             3085 wiz_defined-function locations,
-            710 strings with 5775 characters,
-and the built_in function-call counts, 3184 in all, are:
-= -- 280
-> -- 168
+            719 strings with 6012 characters,
+and the built_in function-call counts, 3737 in all, are:
+= -- 327
+> -- 214
 < -- 7
-+ -- 54
-- -- 53
-* -- 234
-:= -- 607
-add.period$ -- 8
-call.type$ -- 8
-change.case$ -- 44
-chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 147
-empty$ -- 222
-format.name$ -- 73
-if$ -- 642
++ -- 70
+- -- 72
+* -- 284
+:= -- 710
+add.period$ -- 9
+call.type$ -- 9
+change.case$ -- 53
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 166
+empty$ -- 250
+format.name$ -- 91
+if$ -- 750
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 8
-newline$ -- 28
-num.names$ -- 32
-pop$ -- 43
+missing$ -- 9
+newline$ -- 31
+num.names$ -- 36
+pop$ -- 53
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 53
 quote$ -- 0
-skip$ -- 127
+skip$ -- 142
 stack$ -- 0
-substring$ -- 152
+substring$ -- 173
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 81
 warning$ -- 0
-while$ -- 30
+while$ -- 34
 width$ -- 0
-write$ -- 83
+write$ -- 93
 (There was 1 error message)
