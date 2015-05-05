@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  4 MAY 2015 23:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  5 MAY 2015 09:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -408,6 +408,14 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
+Package natbib Warning: Citation `2014ApJ...796...82Z' on page 1 undefined on i
+nput line 125.
+
+
+Package natbib Warning: Citation `2014ApJ...794..174P' on page 1 undefined on i
+nput line 126.
+
+
 Underfull \hbox (badness 1377) in paragraph at lines 116--136
 []\OT1/cmr/m/n/10 Of or-der 10$[]1$ ergs of ki-netic en-ergy is re-leased
  []
@@ -450,7 +458,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-<FRB_SNR_rate.png, id=17, 722.7pt x 433.62pt>
+<FRB_SNR_rate.png, id=18, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
 Package pdftex.def Info: FRB_SNR_rate.png used on input line 204.
@@ -480,33 +488,37 @@ t line 282.
 
 Package natbib Warning: There were undefined citations.
 
-[3] (./SNRFRB_April30.aux) ) 
+[3] (./SNRFRB_April30.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+) ) 
 Here is how much of TeX's memory you used:
- 4936 strings out of 493315
- 65057 string characters out of 6137904
- 155678 words of memory out of 5000000
- 8307 multiletter control sequences out of 15000+600000
+ 4952 strings out of 493315
+ 65485 string characters out of 6137904
+ 155835 words of memory out of 5000000
+ 8323 multiletter control sequences out of 15000+600000
  11221 words of font info for 46 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,7n,28p,504b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr5.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
-fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
-b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
-pfb>
-Output written on SNRFRB_April30.pdf (3 pages, 244260 bytes).
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
+l/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on SNRFRB_April30.pdf (3 pages, 244585 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

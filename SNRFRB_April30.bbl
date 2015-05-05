@@ -1,6 +1,10 @@
 \begin{thebibliography}{}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
+\bibitem[{{Bower} {et~al.}(2014){Bower}, {Deller}, {Demorest}, {Brunthaler},
+  {Eatough}, {Falcke}, {Kramer}, {Lee}, \& {Spitler}}]{2014ApJ...780L...2B}
+{Bower}, G.~C., {Deller}, A., {Demorest}, P., {et~al.} 2014, \apjl, 780, L2
+
 \bibitem[{{Falcke} \& {Rezzolla}(2014)}]{2014A&A...562A.137F}
 {Falcke}, H., \& {Rezzolla}, L. 2014, \aap, 562, A137
 
@@ -24,13 +28,29 @@
 \bibitem[{{Pen} \& {Connor}(2015)}]{2015arXiv150101341P}
 {Pen}, U.-L., \& {Connor}, L. 2015, ArXiv e-prints, arXiv:1501.01341
 
+\bibitem[{{Petroff}(2014)}]{2014arXiv1412.0342P}
+{Petroff}, E. e.~a. 2014, ArXiv e-prints 1412.0342, arXiv:1412.0342
+
 \bibitem[{{Pfahl} \& {Loeb}(2004)}]{2004ApJ...615..253P}
 {Pfahl}, E., \& {Loeb}, A. 2004, \apj, 615, 253
+
+\bibitem[{{Potter} {et~al.}(2014){Potter}, {Staveley-Smith}, {Reville}, {Ng},
+  {Bicknell}, {Sutherland}, \& {Wagner}}]{2014ApJ...794..174P}
+{Potter}, T.~M., {Staveley-Smith}, L., {Reville}, B., {et~al.} 2014, \apj, 794,
+  174
 
 \bibitem[{{Thornton}(2013)}]{2013Sci...341...53T}
 {Thornton}, D. e.~a. 2013, Science, 341, 53
 
 \bibitem[{{Totani}(2013)}]{2013PASJ...65L..12T}
 {Totani}, T. 2013, \pasj, 65, L12
+
+\bibitem[{{Zanardo} {et~al.}(2014){Zanardo}, {Staveley-Smith}, {Indebetouw},
+  {Chevalier}, {Matsuura}, {Gaensler}, {Barlow}, {Fransson}, {Manchester},
+  {Baes}, {Kamenetzky}, {Laki{\'c}evi{\'c}}, {Lundqvist}, {Marcaide},
+  {Mart{\'{\i}}-Vidal}, {Meixner}, {Ng}, {Park}, {Sonneborn}, {Spyromilio}, \&
+  {van Loon}}]{2014ApJ...796...82Z}
+{Zanardo}, G., {Staveley-Smith}, L., {Indebetouw}, R., {et~al.} 2014, \apj,
+  796, 82
 
 \end{thebibliography}
