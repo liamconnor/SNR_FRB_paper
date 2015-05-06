@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  6 MAY 2015 12:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  6 MAY 2015 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -417,29 +417,20 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./SNRFRB_April30.tex:189: Extra }, or forgotten $.
-l.189 $| \left < B_{\parallel} \right >}
-                                        | \sim 0.9 \mu G$.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 <FRB_SNR_rate.png, id=18, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 220.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 221.
 (pdftex.def)             Requested size: 256.55872pt x 153.93286pt.
 
-Overfull \hbox (11.29219pt too wide) in paragraph at lines 220--221
+Overfull \hbox (11.29219pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
-./SNRFRB_April30.tex:252: Missing $ inserted.
+./SNRFRB_April30.tex:253: Missing $ inserted.
 <inserted text> 
                 $
-l.252 These supergiant pulses would require 10^
+l.253 These supergiant pulses would require 10^
                                                {36 - 37}$ ergs of output,
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -452,7 +443,7 @@ Overfull \vbox (1.0936pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  4990 strings out of 493315
  66360 string characters out of 6137904
- 160628 words of memory out of 5000000
+ 159628 words of memory out of 5000000
  8358 multiletter control sequences out of 15000+600000
  12265 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -474,7 +465,7 @@ b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
 fb>
-Output written on SNRFRB_April30.pdf (3 pages, 247222 bytes).
+Output written on SNRFRB_April30.pdf (3 pages, 247091 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
