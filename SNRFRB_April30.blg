@@ -4,48 +4,47 @@ The top-level auxiliary file: SNRFRB_April30.aux
 The style file: emulateapj.bst
 Database file #1: SNRFRB_April30Notes.bib
 Database file #2: SNRFRB_April30.bib
-Warning--I didn't find a database entry for ""
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty publisher in 2014ira..book.....B
-You've used 21 entries,
+You've used 23 entries,
             3085 wiz_defined-function locations,
-            806 strings with 9784 characters,
-and the built_in function-call counts, 9985 in all, are:
-= -- 802
-> -- 751
+            819 strings with 10396 characters,
+and the built_in function-call counts, 11059 in all, are:
+= -- 884
+> -- 849
 < -- 11
-+ -- 250
-- -- 269
-* -- 853
-:= -- 1912
-add.period$ -- 21
-call.type$ -- 21
-change.case$ -- 136
-chr.to.int$ -- 21
-cite$ -- 22
-duplicate$ -- 398
-empty$ -- 596
-format.name$ -- 297
-if$ -- 1964
++ -- 283
+- -- 306
+* -- 954
+:= -- 2123
+add.period$ -- 23
+call.type$ -- 23
+change.case$ -- 151
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 437
+empty$ -- 651
+format.name$ -- 335
+if$ -- 2169
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 67
-num.names$ -- 84
-pop$ -- 146
+missing$ -- 22
+newline$ -- 73
+num.names$ -- 92
+pop$ -- 163
 preamble$ -- 1
-purify$ -- 136
+purify$ -- 151
 quote$ -- 0
-skip$ -- 331
+skip$ -- 359
 stack$ -- 0
-substring$ -- 393
+substring$ -- 425
 swap$ -- 6
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 186
+type$ -- 204
 warning$ -- 1
-while$ -- 76
+while$ -- 82
 width$ -- 0
-write$ -- 212
-(There were 2 warnings)
+write$ -- 232
+(There was 1 warning)
