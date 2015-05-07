@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  7 MAY 2015 12:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  7 MAY 2015 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,36 +380,40 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
+
+ []
+
 
 Class revtex4-1 Warning: Assuming \noaffiliation for authors.
 
 
-./SNRFRB_April30.tex:72: LaTeX Error: There's no line here to end.
+./SNRFRB_April30.tex:69: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 T
+l.69 T
       he mystery of Fast Radio Bursts (FRB's) has garnered
 ? s
 OK, entering \scrollmode...
 
-./SNRFRB_April30.tex:112: LaTeX Error: There's no line here to end.
+./SNRFRB_April30.tex:109: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 I
+l.109 I
        n this letter we propose a new non-cosmological but extragalactic
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-./SNRFRB_April30.tex:187: Extra }, or forgotten $.
-l.187 ...ainty in $\left < B_{\parallel} \right >}
+./SNRFRB_April30.tex:184: Extra }, or forgotten $.
+l.184 ...ainty in $\left < B_{\parallel} \right >}
                                                   $ given $B_{\parallel}$ is...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -417,36 +421,20 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./SNRFRB_April30.tex:211: Missing $ inserted.
-<inserted text> 
-                $
-l.211 ..._{CC}\sim3 \times 10^{-4}$ day$^{-1}$ (h^
-                                                  {-1} Mpc)$^{-3}$,
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-./SNRFRB_April30.tex:211: Missing $ inserted.
-<inserted text> 
-                $
-l.211 ...\times 10^{-4}$ day$^{-1}$ (h^{-1} Mpc)$^
-                                                  {-3}$,
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 <FRB_SNR_rate.png, id=18, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 221.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 218.
 (pdftex.def)             Requested size: 256.55872pt x 153.93286pt.
 
-Overfull \hbox (11.29219pt too wide) in paragraph at lines 221--222
+Overfull \hbox (11.29219pt too wide) in paragraph at lines 218--219
  [][] 
  []
 
-./SNRFRB_April30.tex:256: Missing $ inserted.
+./SNRFRB_April30.tex:259: Missing $ inserted.
 <inserted text> 
                 $
-l.256 These supergiant pulses would require 10^
+l.259 These supergiant pulses would require 10^
                                                {36 - 37}$ ergs of output,
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -454,13 +442,13 @@ you left one out. Proceed, with fingers crossed.
 [2 <./FRB_SNR_rate.png>] (./SNRFRB_April30.bbl [3]) [4] (./SNRFRB_April30.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 4997 strings out of 493315
- 66564 string characters out of 6137904
- 166326 words of memory out of 5000000
- 8365 multiletter control sequences out of 15000+600000
+ 4989 strings out of 493315
+ 66348 string characters out of 6137904
+ 170649 words of memory out of 5000000
+ 8357 multiletter control sequences out of 15000+600000
  12265 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,7n,28p,695b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,7n,28p,695b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -478,7 +466,7 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2013/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30.pdf (4 pages, 250090 bytes).
+Output written on SNRFRB_April30.pdf (4 pages, 250589 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
