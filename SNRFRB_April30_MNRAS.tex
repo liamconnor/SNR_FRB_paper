@@ -1,22 +1,40 @@
-\documentclass[useAMS,usenatbib]{emulateapj}
+\documentclass[useAMS,usenatbib]{mn2e}
 
 
 %define general packages
+%\usepackage{epsfig}
+%\usepackage{amsmath}
+%\usepackage{natbib}
+%\usepackage{epstopdf}
+
 \usepackage{epsfig}
-\usepackage{amsmath}
-\usepackage{natbib}
 \usepackage{epstopdf}
+\usepackage{lscape} % Allows landscape environment to be used
+\usepackage{natbib}
+\def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
 
 
-\begin{document}
 
-\title{non-cosmological FRB's from young supernova remnant pulsars}
-\author{
-Liam Connor$^{1, 2,3}$
-Jonathan Sievers $^{4}$
-Ue-Li Pen $^{1, 5}$
+\title{Non-Cosmological FRB's from Young Supernova Remnant Pulsars}
+\author[Connor et al.]{
+Liam Connor$^{1,2,3}$\thanks{E-mail:\ connor@astro.utoronto.ca}
+Jonathan Sievers $^{4}$\thanks{E-mail:\ jonathan.sievers@gmail.com}
+Ue-Li Pen $^{1, 5}$\thanks{E-mail:\ pen@cita.utoronto.ca}
+\\
+$^1$ Canadian Institute for Theoretical Astrophysics, University of Toronto, M5S 3H8 Ontario, Canada
+\\
+$^2$ Department of Astronomy and Astrophysics, University of Toronto, 
+M5S 3H8 Ontario, Canada
+\\
+$^3$ Dunlap Institute for Astronomy and Astrophysics, University of Toronto,
+Toronto, ON M5S 3H4, Canada
+\\
+$^4$ Astrophysics and Cosmology Research Unit, University of KwaZulu-Natal, Durban, South Africa
+\\
+$^5$ Canadian Institute for Advanced Research, Program in Cosmology
+and Gravitation
 }
-\date{\today}
+
 
 % Usually omit these for ApJ or MNRAS style files:
 %\tableofcontents
@@ -24,6 +42,14 @@ Ue-Li Pen $^{1, 5}$
 %\listoffigures
 %
 %\listoftables
+
+\begin{document}
+\date{\today}
+\pagerange{\pageref{firstpage}--\pageref{lastpage}} 
+\pubyear{2015}
+\maketitle
+\label{firstpage}
+
 
 \begin{abstract}
 We take into account recent polarization and scattering measurements of fast radio bursts
@@ -42,22 +68,22 @@ large DM, and relatively high RM all come from one place in our model,
 interpretation. Our model also provides
 testable predictions of the flux distribution and repeat rate of fast radio bursts, and could be further
 verified by spatial coincidence with optical supernovae of the past several decades. 
-
 \end{abstract}
-\keywords{FRB, supernova remnants, pulsar, giant pulse}
+\begin{keywords}
+FRB, supernova remnants, pulsar, giant pulse
+\end{keywords}
 %\begin{keywords}
 %FRB, magnetars, galactic center, giant pulse
 %\end{keywords}
 
-\footnote{Canadian Institute for Theoretical Astrophysics, University of Toronto, M5S 3H8 Ontario, Canada} \\
-\footnote{Department of Astronomy and Astrophysics, University of Toronto, 
-M5S 3H8 Ontario, Canada}
-\footnote{Dunlap Institute for Astronomy and Astrophysics, University of Toronto,
-Toronto, ON M5S 3H4, Canada}
-\footnote{Astrophysics and Cosmology Research Unit, University of KwaZulu-Natal, Durban, South Africa}
-\footnote{Canadian Institute for Advanced Research, Program in Cosmology
-and Gravitation}\\
-
+%\footnote{Canadian Institute for Theoretical Astrophysics, University of Toronto, M5S 3H8 Ontario, Canada} \\
+%\footnote{Department of Astronomy and Astrophysics, University of Toronto, 
+%M5S 3H8 Ontario, Canada}
+%\footnote{Dunlap Institute for Astronomy and Astrophysics, University of Toronto,
+%Toronto, ON M5S 3H4, Canada}
+%\footnote{Astrophysics and Cosmology Research Unit, University of KwaZulu-Natal, Durban, South Africa}
+%\footnote{Canadian Institute for Advanced Research, Program in Cosmology
+%and Gravitation}\\
 
 \newcommand{\be}{\begin{eqnarray}}
 \newcommand{\ee}{\end{eqnarray}}
@@ -213,7 +239,7 @@ In figure \ref{FIG-RATE}
 we show the event rate as a function of distance, varying two parameters: the 
 effective high-DM window and the rate of giant pulses. 
 
-\begin{figure}[h!]
+\begin{figure}
   \centering
    \includegraphics[width=0.5\textwidth]{FRB_SNR_rate.png}
    \caption{Daily FRB rate per sky based on local core-collapse supernova 
@@ -358,9 +384,35 @@ change drastically.
 We thank NSERC for support. We also thank Bryan Gaensler, Neils Oppermann, 
 Giovanna Zanardo, and Chris Matzner for helpful discussions. 
 
+\newcommand{\araa}{ARA\&A}   % Annual Review of Astronomy and Astrophys.
+\newcommand{\afz}{Afz}       % Astrofizica
+\newcommand{\aj}{AJ}         % Astronomical Journal
+\newcommand{\azh}{AZh}       % Astronomicekij Zhurnal
+\newcommand{\aaa}{A\&A}      % Astronomy and Astrophysics
+\newcommand{\aas}{A\&AS}     % Astronomy and Astrophys. Supplement Series
+\newcommand{\aar}{A\&AR}     % Astronomy and Astrophysics Review
+\newcommand{\apj}{ApJ}       % Astrophysical Journal
+\newcommand{\apjs}{ApJS}     % Astrophysical Journal Supplement Series
+\newcommand{\apjl}{ApJ}      % Astrophysical Journal Letters
+\newcommand{\apss}{Ap\&SS}   % Astrophysics and Space Science
+\newcommand{\baas}{BAAS}     % Bulletin of the American Astron. Society
+\newcommand{\jaa}{JA\&A}     % Journal of Astronomy and Astrophysics
+\newcommand{\mnras}{MNRAS}   % Monthly Notices of the Roy. Astron. Society
+\newcommand{\nat}{Nat}       % Nature
+\newcommand{\pasj}{PASJ}     % Publ. of the Astron. Society of Japan
+\newcommand{\pasp}{PASP}     % Publ. of the Astron. Society of the Pacific
+\newcommand{\paspc}{PASPC}   % Publ. Astron. Soc. Pacific Conf. Proc.
+\newcommand{\qjras}{QJRAS}   % Quart. Journal of the Royal Astron. Society
+\newcommand{\sci}{Sci}       % Science
+\newcommand{\solphys}{Solar Physics}       % 
+\newcommand{\sova}{SvA}      % Soviet Astronomy
+\newcommand{\aap}{A\&A}
+\newcommand\jcap{{J. Cosmology Astropart. Phys.}}%
+\newcommand{\prd}{Phys. Rev. D}
+
 %\bibliography{frb}
-\bibliography{SNRFRB_April30}
-\bibliographystyle{emulateapj}
+\bibliography{SNRFRB_April30_MNRAS}
+\bibliographystyle{mn2e}
 
 
 \label{lastpage}
