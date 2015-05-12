@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  8 MAY 2015 11:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 MAY 2015 14:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -42,6 +42,64 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@figure=\count88
 \mathindent=\dimen103
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
@@ -50,7 +108,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks20
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
@@ -72,13 +130,13 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count89
+\Gread@gobject=\count101
 ))
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
 )
-\epsfxsize=\dimen106
-\epsfysize=\dimen107
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
@@ -153,22 +211,18 @@ LaTeX Font Info:    ... okay on input line 46.
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count90
-\scratchdimen=\dimen108
-\scratchbox=\box26
-\nofMPsegments=\count91
-\nofMParguments=\count92
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count93
-\MPscratchDim=\dimen109
-\MPnumerator=\count94
-\makeMPintoPDFobject=\count95
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks22
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 50.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 50.
 LaTeX Font Info:    Try loading font information for U+eur on input line 50.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
@@ -178,13 +232,6 @@ LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 50.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 50.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 50.
-
 
 ./SNRFRB_April30_MNRAS.tex:95: LaTeX Error: There's no line here to end.
 
@@ -196,8 +243,6 @@ l.95 T
       he mystery of fast radio bursts (FRB's) has garnered
 ? s
 OK, entering \scrollmode...
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 100.
 
 ./SNRFRB_April30_MNRAS.tex:135: LaTeX Error: There's no line here to end.
 
@@ -231,11 +276,38 @@ Package natbib Warning: Citation `2014ApJ...796...82Z' on page 2 undefined on i
 nput line 156.
 
 
-Package natbib Warning: Citation `2014ApJ...796...82Z' on page 2 undefined on i
-nput line 179.
+./SNRFRB_April30_MNRAS.tex:169: LaTeX Error: Environment centre undefined.
 
-./SNRFRB_April30_MNRAS.tex:210: Extra }, or forgotten $.
-l.210 ...ainty in $\left < B_{\parallel} \right >}
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 \begin{centre}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./SNRFRB_April30_MNRAS.tex:171: LaTeX Error: \begin{equation} on input line 168
+ ended by \end{centre}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 \end{centre}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package natbib Warning: Citation `2014ApJ...796...82Z' on page 2 undefined on i
+nput line 181.
+
+./SNRFRB_April30_MNRAS.tex:212: Extra }, or forgotten $.
+l.212 ...ainty in $\left < B_{\parallel} \right >}
                                                   $ given $B_{\parallel}$ is...
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -246,46 +318,43 @@ deleted material, e.g., by typing `I$}'.
 <FRB_SNR_rate.png, id=22, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 244.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 246.
 (pdftex.def)             Requested size: 252.0pt x 151.20026pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 244--254
+Overfull \hbox (12.0pt too wide) in paragraph at lines 246--256
  [][] 
  []
 
-./SNRFRB_April30_MNRAS.tex:254: Illegal parameter number in definition of \rese
+./SNRFRB_April30_MNRAS.tex:256: Illegal parameter number in definition of \rese
 rved@a.
 <to be read again> 
                    1
-l.254    found by \cite{2015arXiv150500834R}.}
+l.256    found by \cite{2015arXiv150500834R}.}
                                               
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-./SNRFRB_April30_MNRAS.tex:254: Illegal parameter number in definition of \rese
+./SNRFRB_April30_MNRAS.tex:256: Illegal parameter number in definition of \rese
 rved@a.
 <to be read again> 
                    1
-l.254    found by \cite{2015arXiv150500834R}.}
+l.256    found by \cite{2015arXiv150500834R}.}
                                               
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 [2 <./FRB_SNR_rate.png>]
-./SNRFRB_April30_MNRAS.tex:292: Missing $ inserted.
+./SNRFRB_April30_MNRAS.tex:294: Missing $ inserted.
 <inserted text> 
                 $
-l.292 These supergiant pulses would require 10^
+l.294 These supergiant pulses would require 10^
                                                {36 - 37}$ ergs of output,
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-(./SNRFRB_April30_MNRAS.bbl
-Underfull \vbox (badness 1028) has occurred while \output is active []
-
- [3]
+[3] (./SNRFRB_April30_MNRAS.bbl
 Underfull \hbox (badness 3019) in paragraph at lines 58--62
 \OT1/cmr/m/n/9 Aka-hori T., Car-retti E., Gaensler B. M., Goo-bar
  []
@@ -314,35 +383,35 @@ Package natbib Warning: There were undefined citations.
 
 ] (./SNRFRB_April30_MNRAS.aux) ) 
 Here is how much of TeX's memory you used:
- 2279 strings out of 493315
- 31402 string characters out of 6137904
- 101812 words of memory out of 5000000
- 5697 multiletter control sequences out of 15000+600000
- 16744 words of font info for 58 fonts, out of 8000000 for 9000
+ 2879 strings out of 493315
+ 38222 string characters out of 6137904
+ 111975 words of memory out of 5000000
+ 6278 multiletter control sequences out of 15000+600000
+ 18097 words of font info for 64 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,14n,34p,719b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,14n,34p,719b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmex10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.
-pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (4 pages, 303133 bytes).
+c/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr7.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr9.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on SNRFRB_April30_MNRAS.pdf (4 pages, 302881 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
