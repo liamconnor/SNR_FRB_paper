@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 MAY 2015 14:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 MAY 2015 14:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -272,10 +272,6 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 
 ]
 
-Package natbib Warning: Citation `2014ApJ...796...82Z' on page 2 undefined on i
-nput line 156.
-
-
 ./SNRFRB_April30_MNRAS.tex:169: LaTeX Error: Environment centre undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -301,10 +297,6 @@ l.171 \end{centre}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Package natbib Warning: Citation `2014ApJ...796...82Z' on page 2 undefined on i
-nput line 181.
 
 ./SNRFRB_April30_MNRAS.tex:212: Extra }, or forgotten $.
 l.212 ...ainty in $\left < B_{\parallel} \right >}
@@ -364,29 +356,14 @@ Underfull \hbox (badness 1087) in paragraph at lines 82--84
 []\OT1/cmr/m/n/9 Rane A., Lorimer D. R., Bates S. D., Mc-Mann N.,
  []
 
-Runaway argument?
-\protect \citeauthoryear {{Zanardo}, {Staveley-Smith}, {Indebetouw}, \ETC.
-./SNRFRB_April30_MNRAS.bbl:118: Paragraph ended before \@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.118 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-)
-
-Package natbib Warning: There were undefined citations.
-
-[4
+) [4
 
 ] (./SNRFRB_April30_MNRAS.aux) ) 
 Here is how much of TeX's memory you used:
- 2879 strings out of 493315
- 38222 string characters out of 6137904
- 111975 words of memory out of 5000000
- 6278 multiletter control sequences out of 15000+600000
+ 2881 strings out of 493315
+ 38282 string characters out of 6137904
+ 112027 words of memory out of 5000000
+ 6280 multiletter control sequences out of 15000+600000
  18097 words of font info for 64 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,14n,34p,719b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -411,7 +388,7 @@ fb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (4 pages, 302881 bytes).
+Output written on SNRFRB_April30_MNRAS.pdf (4 pages, 317270 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream

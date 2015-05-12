@@ -11,48 +11,42 @@ Repeated entry---line 490 of file SNRFRB_April30_MNRAS.bib
  : @article{2004ApJ...612..375C
  :                             ,
 I'm skipping whatever remains of this entry
-Warning--you've exceeded 250, the entry-string-size, for entry 2014ApJ...796...82Z
-while executing--line 1184 of file mn2e.bst
-*Please notify the bibstyle designer*
-Warning--you've exceeded 250, the entry-string-size, for entry 2014ApJ...796...82Z
-while executing--line 1223 of file mn2e.bst
-*Please notify the bibstyle designer*
 Warning--empty publisher in 2014ira..book.....B
 You've used 22 entries,
             2601 wiz_defined-function locations,
-            681 strings with 8499 characters,
-and the built_in function-call counts, 11108 in all, are:
-= -- 994
-> -- 981
-< -- 12
-+ -- 345
-- -- 345
-* -- 1121
-:= -- 2082
+            681 strings with 8079 characters,
+and the built_in function-call counts, 10142 in all, are:
+= -- 932
+> -- 820
+< -- 13
++ -- 285
+- -- 285
+* -- 999
+:= -- 1902
 add.period$ -- 0
 call.type$ -- 22
-change.case$ -- 204
+change.case$ -- 184
 chr.to.int$ -- 22
 cite$ -- 23
 duplicate$ -- 249
 empty$ -- 369
-format.name$ -- 377
-if$ -- 1975
+format.name$ -- 317
+if$ -- 1813
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 23
 newline$ -- 70
 num.names$ -- 88
-pop$ -- 166
+pop$ -- 145
 preamble$ -- 1
-purify$ -- 225
+purify$ -- 205
 quote$ -- 0
-skip$ -- 351
+skip$ -- 332
 stack$ -- 0
 substring$ -- 417
 swap$ -- 28
 text.length$ -- 2
-text.prefix$ -- 115
+text.prefix$ -- 95
 top$ -- 0
 type$ -- 195
 warning$ -- 1
