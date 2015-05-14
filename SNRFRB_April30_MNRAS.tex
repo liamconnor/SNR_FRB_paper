@@ -11,6 +11,9 @@
 \usepackage{epstopdf}
 \usepackage{lscape} % Allows landscape environment to be used
 \usepackage{natbib}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{amssymb}
 \def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
 
 
@@ -64,8 +67,9 @@ its infancy in an environment like that of SN 1987A,
 we hypothesize such an object could emit supergiant pulses sporadically which 
 would be bright enough to see at a few hundred megaparsecs. In this scenario Faraday
 rotation at the source gives RM's much larger than the expected
-cosmological contribution.  Polarization vectors are also expected to
-rotate over the duration of the burst.
+cosmological contribution.  If the emission were pulsar-like, then the polarization  % Reword, don't like this
+vector could swing over the duration of the burst, which is not expected from 
+non-rotating objects.
 In this model, the scattering,
 large DM, and commensurate RM all come from one place 
  which is not the case for the cosmological
@@ -116,7 +120,7 @@ including merging white dwarfs \citep{2012ApJ...760...64M}
 and neutron stars \citep{2013PASJ...65L..12T},
 blitzars \citep{2014A&A...562A.137F}, 
 magnetars \citep{2015arXiv150101341P, 2014MNRAS.442L...9L}, 
-and flaring galactic stars \citep{2004ApJ...615..253P}.
+and flaring galactic stars. %\citep{2014MNRAS.439L..46L}.
 Though presently there are more theoretical models for FRB's than actual 
 sources discovered, constraints on such theories are rapidly emerging. 
 This is due to recent polarization data, 
@@ -141,7 +145,7 @@ supernova remnants (SNR's). The dense ionized environment of the SNR
 can provide 500-2000 pc/cm$^3$ of dispersion if the pulses are observed 
 within $\sim100$ years of the core-collapse supernova. In our picture the 
 large DM and scattering all come from the same place, and generically
-predicts substantial Faraday Rotation and polarization angle
+accounts for substantial Faraday Rotation and polarization angle
 swings\footnote{The authors disclose access to unpublished data prior
   to making these predictions}.
 These are not expected in a cosmological interpretation of the DM.
@@ -152,7 +156,7 @@ These are not expected in a cosmological interpretation of the DM.
 \section{Supernova Remants}
 Of order 10$^{51}$ ergs of kinetic energy is released during a supernova, a 
 fraction of which is converted into thermal 
-energy after shock wave heating of the 
+energy after shock heating of the 
 ejecta plasma. Though the shock-heated ejacta atoms 
 are fully ionized after the explosion, the density is high enough that
 ionized atoms can soon recombine.
@@ -306,6 +310,43 @@ also point out that given its relative proximity, this model requires
 a couple orders of magnitude less energy than cosmological FRB's,
 located beyond a Gpc. 
 
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+
+\begin{table*}
+\begin{tabularx}{1.08\textwidth}{@{\extracolsep{\fill}}|lccccccc|}
+\hline
+\multicolumn{1}{|c}{\textbf{Location}}                                                                                            & \textbf{Model}                                              & \textbf{Scintillation} & \textbf{\begin{tabular}[c]{@{}c@{}}Faraday \\ rotation\end{tabular}} & \textbf{$\mathbf{\frac{dlnN_{FRB}}{dlnS_{\nu}}}$}                                      & \multicolumn{1}{l}{\textbf{Counterpart}}                                    & \textbf{\begin{tabular}[c]{@{}c@{}}DM range\\ (pc/cm$^3$)\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Pol angle \\ swing\end{tabular}} \\ \hline
+\multicolumn{1}{|l|}{\multirow{4}{*}{\begin{tabular}[c]{@{}l@{}}Cosmological \\ ($\gtrsim 1h^{-1}$Gpc)\end{tabular}}}             & Blitzars                                                    & No                     & 2-50 rad/m$^2$                                                       & ?                                                                                      & \begin{tabular}[c]{@{}c@{}}gravitational \\ waves\end{tabular}              & 300-2500                                                                & ?                                                                   \\
+\multicolumn{1}{|l|}{}                                                                                                            & Merging COs                                                 & No                     & 2-50 rad/m$^2$                                                       & ?                                                                                      & \begin{tabular}[c]{@{}c@{}}Type Ia SNe,\\  X-ray, $\gamma$-ray\end{tabular} & 300-2500                                                                & No                                                                  \\
+\multicolumn{1}{|l|}{}                                                                                                            & Primordial BHs                                              & No                     & 2-50 rad/m$^2$                                                       & ?                                                                             & $\sim$TeV                                                                   & 300-2500                                                                & No                                                                  \\
+\multicolumn{1}{|l|}{}                                                                                                            & Magnetar flare                                              & No                     & 2-50 rad/m$^2$                                                       & ?                                                                                      & \begin{tabular}[c]{@{}c@{}}$\sim$ms TeV \\ burst\end{tabular}               & 300-2500                                                                & $\checkmark$                                                        \\ \cline{1-1}
+\multicolumn{1}{|l|}{\multirow{3}{*}{\begin{tabular}[c]{@{}l@{}}Extragalactic, local \\ ($\lesssim$200$h^{-1}$Mpc)\end{tabular}}} & Edge-on disk                                                & $\checkmark$           & 50-500 rad/m$^2$                                                     & -3/2                                                                                   & ?                                                                           & 10-2000                                                                 & ?                                                                   \\
+\multicolumn{1}{|l|}{}                                                                                                            & \begin{tabular}[c]{@{}c@{}}Nuclear \\ magnetar\end{tabular} & $\checkmark$           & 10$^{3-5}$ rad/m$^2$                                                 & -3/2                                                                                   & None                                                                        & 10-3000                                                                 & $\checkmark$                                                        \\
+\multicolumn{1}{|l|}{}                                                                                                            & SNR pulsar                                                  & $\checkmark$           & 20-$10^3$ rad/m$^2$                                                  & -3/2                                                                                   & \begin{tabular}[c]{@{}c@{}}Archival CC \\ SNe\end{tabular}                  & 10$^2$-10$^4$                                                           & $\checkmark$                                                        \\ \cline{1-1}
+\multicolumn{1}{|l|}{Galactic ($\lesssim 100$kpc)}                                                                                & Flaring MS stars                                            & $\checkmark$           & $\lesssim 10$ rad/m$^2$                                              & -3/2                                                                                   & \begin{tabular}[c]{@{}c@{}}Main sequence \\ star\end{tabular}               & $\gtrsim$ 300                                                           & No                                                                  \\ \cline{1-1}
+\multicolumn{1}{|l|}{Terrestrial ($\lesssim 10^4$km)}                                                                             & RFI                                                         & No                     & 0 rad/m$^2$                                                          & $\left\{\begin{matrix}-1/2 \,\, if \,\, 2D \\ -3/2 \,\, if \,\, 3D\end{matrix}\right.$ & None                                                                        & ?                                                                       & No                                                                  \\ \hline
+\end{tabularx}
+\label{TAB1}
+\caption{This table summarizes a number of FRB models by classifying them as cosmological, 
+extragalactic but non-cosmological, galactic, and terrestrial. 
+The seven columns are potential observables of FRB's and each
+ row gives their consequence for a given model 
+ (Blitzars \citep{2014A&A...562A.137F}, compact object mergers \citep{2012ApJ...760...64M, 2013PASJ...65L..12T},
+ exploding primordial blackholes \citep{2014PhRvD..90l7503B}, bursts from magnetars \citep{2014MNRAS.442L...9L}, edge-on disk galaxies \citep{2015arXiv150400200X}, circumnuclear magnetars \citep{2015arXiv150101341P}, 
+ supernova remnant pulsars, stellar flares \citep{2014MNRAS.439L..46L}, and terrestrial RFI 
+ \citep{2015arXiv150305245H}.)
+ . Since scintillation
+only affects unresolved images, cosmological sources that presumably have already been scatttered
+will not scintillate in our galaxy, while non-cosmological sources will. For Faraday rotation we assume 
+the RM comes from the same place as the DM, e.g. the IGM for cosmological sources. Even though
+all models have to explain the observed 500-1500 pc/cm$^3$, some models predict a wider 
+range of DM. For instance, in the circumnuclear magnetar or edge-on disk disk scenarios there 
+ought to be bursts at relatively low DM that simply have not been identified as FRB's. In our supernova 
+remnant model DM's should be very large early in the pulsar's life, though this window is short and 
+therefore such high DM bursts would be rare.}
+\end{table*}
+
 The polarization properties of giant pulses are also consistent with
 observed those of FRB's. Giant pulses are known to be highly polarized, 
 switching between strong Stokes V and purely linearly polarized states. 
@@ -367,6 +408,7 @@ possible, albeit rare, that an FRB have a dispersion
 
 %\section{Applications}
 
+
 \section{Conclusions}
 Evidence is piling on suggesting FRB's are not only extraterrestrial
 but extragalactic. Though the simplest interpretation of their high DM's 
@@ -394,6 +436,10 @@ we have proposed that such objects can emit extremely energetic bursts sporadica
 If these are similar to giant pulses from galactic pulsars, they could be highly polarized, 
 either linearly or circularly, and if they were to repeat their polarization state may 
 change drastically. 
+\\
+
+
+
 
 \section{Acknowledgements}
 
@@ -432,6 +478,7 @@ Giovanna Zanardo, and Chris Matzner for helpful discussions.
 
 
 \label{lastpage}
+
 
 \end{document}
 
