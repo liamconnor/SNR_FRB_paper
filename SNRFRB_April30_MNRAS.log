@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 MAY 2015 14:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 MAY 2015 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,57 +351,47 @@ Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 [2]
-Overfull \hbox (40.32092pt too wide) in paragraph at lines 329--347
+Overfull \hbox (40.32092pt too wide) in paragraph at lines 330--347
  [][] 
  []
 
+./SNRFRB_April30_MNRAS.tex:431: Undefined control sequence.
+<recently read> \ms 
+                    
+l.431 ...ms. In the cosmological case, if the $\ms
+                                                  $ scattering
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Package natbib Warning: Citation `2014PhRvD..90l7503B' on page 3 undefined on i
-nput line 347.
-
-
-Package natbib Warning: Citation `2014PhRvD..90l7503B' on page 3 undefined on i
-nput line 347.
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 425--440
-[]\OT1/cmr/m/n/9 The neb-ula could also pro-vide $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/
-m/n/9 ms scat-ter-ing at
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--440
+[3 <./FRB_SNR_rate.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 462--478
 
  []
 
-[3 <./FRB_SNR_rate.png>] (./SNRFRB_April30_MNRAS.bbl
-Underfull \hbox (badness 3019) in paragraph at lines 66--70
+(./SNRFRB_April30_MNRAS.bbl [4]
+Underfull \hbox (badness 3019) in paragraph at lines 77--81
 \OT1/cmr/m/n/9 Aka-hori T., Car-retti E., Gaensler B. M., Goo-bar
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 86--88
+Underfull \hbox (badness 1087) in paragraph at lines 97--99
 []\OT1/cmr/m/n/9 Rane A., Lorimer D. R., Bates S. D., Mc-Mann N.,
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4])
-
-Package natbib Warning: There were undefined citations.
-
-[5
+) [5
 
 ] (./SNRFRB_April30_MNRAS.aux) ) 
 Here is how much of TeX's memory you used:
- 3266 strings out of 493315
- 42838 string characters out of 6137904
- 123484 words of memory out of 5000000
- 6641 multiletter control sequences out of 15000+600000
+ 3280 strings out of 493315
+ 43167 string characters out of 6137904
+ 123750 words of memory out of 5000000
+ 6655 multiletter control sequences out of 15000+600000
  20163 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,22n,34p,1591b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,22n,34p,1591b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/p
@@ -429,7 +419,7 @@ r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/loc
 al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 376486 bytes).
+Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 380669 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
