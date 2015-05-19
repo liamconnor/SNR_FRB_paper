@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2015 10:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2015 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,6 +351,23 @@ Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 [2]
+./SNRFRB_April30_MNRAS.tex:333: Missing $ inserted.
+<inserted text> 
+                $
+l.333 \end{tabularx}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./SNRFRB_April30_MNRAS.tex:333: Missing $ inserted.
+<inserted text> 
+                $
+l.333 \end{tabularx}
+                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
 Overfull \hbox (40.32092pt too wide) in paragraph at lines 333--353
  [][] 
  []
@@ -389,7 +406,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 105--107
 Here is how much of TeX's memory you used:
  3287 strings out of 493315
  43338 string characters out of 6137904
- 123158 words of memory out of 5000000
+ 123149 words of memory out of 5000000
  6662 multiletter control sequences out of 15000+600000
  20163 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -421,7 +438,7 @@ b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 381846 bytes).
+Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 382067 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
