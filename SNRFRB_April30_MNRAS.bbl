@@ -1,11 +1,16 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{{Bandura}}{{Bandura}}{2014}]{2014SPIE.9145E..22B}
+\bibitem[\protect\citeauthoryear{{Bandura}}{{Bandura}}{2014}]{2014SPIE.9145E..%
+22B}
 {Bandura} K. e.~a.,  2014, in Society of Photo-Optical Instrumentation
   Engineers (SPIE) Conference Series Vol.~9145 of Society of Photo-Optical
   Instrumentation Engineers (SPIE) Conference Series, {Canadian Hydrogen
   Intensity Mapping Experiment (CHIME) pathfinder}.
 p.~22
+
+\bibitem[\protect\citeauthoryear{{Barrau}, {Rovelli} \& {Vidotto}}{{Barrau}
+  et~al.}{2014}]{2014PhRvD..90l7503B}
+{Barrau} A.,  {Rovelli} C.,    {Vidotto} F.,  2014, \prd, 90, 127503
 
 \bibitem[\protect\citeauthoryear{{Bower}, {Deller}, {Demorest}, {Brunthaler},
   {Eatough}, {Falcke}, {Kramer}, {Lee} \& {Spitler}}{{Bower}
@@ -31,6 +36,10 @@ p.~22
   {Rezzolla}}{2014}]{2014A&A...562A.137F}
 {Falcke} H.,  {Rezzolla} L.,  2014, \aap, 562, A137
 
+\bibitem[\protect\citeauthoryear{{Hippke}, {Domainko} \& {Learned}}{{Hippke}
+  et~al.}{2015}]{2015arXiv150305245H}
+{Hippke} M.,  {Domainko} W.~F.,    {Learned} J.~G.,  2015, ArXiv e-prints
+
 \bibitem[\protect\citeauthoryear{{Kuzmin}, {Losovsky}, {Jordan} \&
   {Smith}}{{Kuzmin} et~al.}{2008}]{2008A&A...483...13K}
 {Kuzmin} A.,  {Losovsky} B.~Y.,  {Jordan} C.~A.,    {Smith} F.~G.,  2008, \aap,
@@ -49,10 +58,12 @@ p.~22
   {Goldreich}}{2014}]{2014ApJ...785L..26L}
 {Luan} J.,  {Goldreich} P.,  2014, \apjl, 785, L26
 
-\bibitem[\protect\citeauthoryear{{Lyubarsky}}{{Lyubarsky}}{2014}]{2014MNRAS.442L...9L}
+\bibitem[\protect\citeauthoryear{{Lyubarsky}}{{Lyubarsky}}{2014}]{2014MNRAS.44%
+2L...9L}
 {Lyubarsky} Y.,  2014, \mnras, 442, L9
 
-\bibitem[\protect\citeauthoryear{{McQuinn}}{{McQuinn}}{2014}]{2014ApJ...780L..33M}
+\bibitem[\protect\citeauthoryear{{McQuinn}}{{McQuinn}}{2014}]{2014ApJ...780L..%
+33M}
 {McQuinn} M.,  2014, \apjl, 780, L33
 
 \bibitem[\protect\citeauthoryear{{Mickaliger}, {McLaughlin}, {Lorimer},
@@ -62,7 +73,8 @@ p.~22
   {Bilous} A.~V.,  {Kondratiev} V.~I.,  {Lyutikov} M.,  {Ransom} S.~M.,
   {Palliyaguru} N.,  2012, \apj, 760, 64
 
-\bibitem[\protect\citeauthoryear{{Narayan}}{{Narayan}}{1992}]{1992RSPTA.341..151N}
+\bibitem[\protect\citeauthoryear{{Narayan}}{{Narayan}}{1992}]{1992RSPTA.341..1%
+51N}
 {Narayan} R.,  1992, Royal Society of London Philosophical Transactions Series
   A, 341, 151
 
@@ -83,7 +95,8 @@ p.~22
   {Levin}}{2014}]{2014MNRAS.442.3338P}
 {Pen} U.-L.,  {Levin} Y.,  2014, \mnras, 442, 3338
 
-\bibitem[\protect\citeauthoryear{{Petroff}}{{Petroff}}{2014}]{2014arXiv1412.0342P}
+\bibitem[\protect\citeauthoryear{{Petroff}}{{Petroff}}{2014}]{2014arXiv1412.03%
+42P}
 {Petroff} E. e.~a.,  2014, ArXiv e-prints 1412.0342
 
 \bibitem[\protect\citeauthoryear{{Potter}, {Staveley-Smith}, {Reville}, {Ng},
@@ -119,11 +132,17 @@ p.~22
 {Thompson} A.~R.,  {Moran} J.~M.,    {Swenson} G.~W.,  1986, {Interferometry
   and synthesis in radio astronomy}
 
-\bibitem[\protect\citeauthoryear{{Thornton}}{{Thornton}}{2013}]{2013Sci...341...53T}
+\bibitem[\protect\citeauthoryear{{Thornton}}{{Thornton}}{2013}]{2013Sci...341.%
+..53T}
 {Thornton} D. e.~a.,  2013, Science, 341, 53
 
-\bibitem[\protect\citeauthoryear{{Totani}}{{Totani}}{2013}]{2013PASJ...65L..12T}
+\bibitem[\protect\citeauthoryear{{Totani}}{{Totani}}{2013}]{2013PASJ...65L..12%
+T}
 {Totani} T.,  2013, \pasj, 65, L12
+
+\bibitem[\protect\citeauthoryear{{Xu} \& {Han}}{{Xu} \&
+  {Han}}{2015}]{2015arXiv150400200X}
+{Xu} J.,  {Han} J.~L.,  2015, ArXiv e-prints
 
 \bibitem[\protect\citeauthoryear{{Zanardo et al.}}{{Zanardo et
   al.}}{2014}]{2014ApJ...796...82Z}
