@@ -1,5 +1,6 @@
+%\documentclass[11pt, a4paper, useAMS,usenatbib]{mn2e}
+%\documentclass[usenatbib]{mn2e}
 \documentclass[useAMS,usenatbib]{mn2e}
-
 
 %define general packages
 %\usepackage{epsfig}
@@ -15,7 +16,6 @@
 \usepackage{multirow}
 \usepackage{amssymb}
 \def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
-
 
 
 \title{Non-Cosmological FRB's from Young Supernova Remnant Pulsars}
@@ -56,7 +56,6 @@ $^7$ Perimeter Institute for Theoretical Physics, 31 Caroline St. N., Waterloo, 
 \pubyear{2015}
 \maketitle
 \label{firstpage}
-
 
 \begin{abstract}
 
@@ -178,9 +177,7 @@ then the radius R(t) $\approx v_{ej} t$. Therefore the DM we expect can be
 calculated as,
 
 \begin{equation}
-\begin{centre}
 \textup{DM} \approx  \frac{\textup{x}_e \textup{M}_{ej}}{m_p \frac{4\pi}{3} v_{ej}^2 t^2}
-\end{centre}
 \end{equation}
 
 \noindent where x$_e$ is the ionization fraction, 
@@ -254,6 +251,7 @@ we show the event rate as a function of distance, varying two parameters: the
 effective high-DM window and the rate of giant pulses. 
 
 \begin{figure}
+\label{FIG-RATE}
   \centering
    \includegraphics[width=0.5\textwidth]{FRB_SNR_rate.png}
    \caption{Daily FRB rate per sky based on local core-collapse supernova 
@@ -266,7 +264,6 @@ effective high-DM window and the rate of giant pulses.
    a visible pulsar.
    The horizontal black lines are the $99\%$ confidence bounds for the FRB rate
    found by \cite{2015arXiv150500834R}.}
-   \label{FIG-RATE}
 \end{figure}
 
 From this figure we can see even in our most conservative estimate, when
@@ -440,6 +437,7 @@ we can estimate the angular size of an extragalactic object,
 \label{eqn-scint}
 \theta \approx \left ( \frac{2 c \tau \, (R_{obj} - R_{sn})}{R_{sn}R_{obj}} \right )^{-1/2}
 \end{equation}
+\\
 
 \noindent where $R_{obj}$ is the distance to the source, $R_{sn}$ is the distance 
 to the screen, and $\tau$ is the scattering timescale. For of FRB's we 
