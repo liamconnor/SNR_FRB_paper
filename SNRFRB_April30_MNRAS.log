@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAY 2015 19:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 MAY 2015 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -31,7 +31,7 @@ LaTeX Font Info:    Overwriting symbol font `UPM' in version `bold'
 \@footindent=\skip44
 \@leftskip=\skip45
 \c@dummy=\count85
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+(./natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip46
 \bibsep=\skip47
@@ -276,107 +276,108 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 57.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 144.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 143.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 144.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 143.
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-
-./SNRFRB_April30_MNRAS.tex:181: LaTeX Error: Environment centre undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \begin{centre}
-                    
-? s
-OK, entering \scrollmode...
-
-./SNRFRB_April30_MNRAS.tex:183: LaTeX Error: \begin{equation} on input line 180
- ended by \end{centre}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.183 \end{centre}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 <FRB_SNR_rate.png, id=22, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
-Package pdftex.def Info: FRB_SNR_rate.png used on input line 258.
+Package pdftex.def Info: FRB_SNR_rate.png used on input line 256.
 (pdftex.def)             Requested size: 252.0pt x 151.20026pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 258--268
+Overfull \hbox (12.0pt too wide) in paragraph at lines 256--266
  [][] 
  []
 
-./SNRFRB_April30_MNRAS.tex:268: Illegal parameter number in definition of \rese
+./SNRFRB_April30_MNRAS.tex:266: Illegal parameter number in definition of \rese
 rved@a.
 <to be read again> 
                    1
-l.268    found by \cite{2015arXiv150500834R}.}
+l.266    found by \cite{2015arXiv150500834R}.}
                                               
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-./SNRFRB_April30_MNRAS.tex:268: Illegal parameter number in definition of \rese
+? s
+OK, entering \scrollmode...
+./SNRFRB_April30_MNRAS.tex:266: Illegal parameter number in definition of \rese
 rved@a.
 <to be read again> 
                    1
-l.268    found by \cite{2015arXiv150500834R}.}
+l.266    found by \cite{2015arXiv150500834R}.}
                                               
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 [2]
-./SNRFRB_April30_MNRAS.tex:333: Missing $ inserted.
+./SNRFRB_April30_MNRAS.tex:330: Missing $ inserted.
 <inserted text> 
                 $
-l.333 \end{tabularx}
+l.330 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./SNRFRB_April30_MNRAS.tex:333: Missing $ inserted.
+./SNRFRB_April30_MNRAS.tex:330: Missing $ inserted.
 <inserted text> 
                 $
-l.333 \end{tabularx}
+l.330 \end{tabularx}
                     
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (40.32092pt too wide) in paragraph at lines 333--353
+Overfull \hbox (40.32092pt too wide) in paragraph at lines 330--350
  [][] 
  []
 
+
+Package natbib Warning: Citation `2014PhRvD..90l7503B' on page 3 undefined on i
+nput line 350.
+
+
+Package natbib Warning: Citation `2015arXiv150400200X' on page 3 undefined on i
+nput line 350.
+
+
+Package natbib Warning: Citation `2015arXiv150305245H' on page 3 undefined on i
+nput line 350.
+
+
+Package natbib Warning: Citation `2014PhRvD..90l7503B' on page 3 undefined on i
+nput line 350.
+
+
+Package natbib Warning: Citation `2015arXiv150400200X' on page 3 undefined on i
+nput line 350.
+
+
+Package natbib Warning: Citation `2015arXiv150305245H' on page 3 undefined on i
+nput line 350.
+
 [3 <./FRB_SNR_rate.png>]
-./SNRFRB_April30_MNRAS.tex:446: Undefined control sequence.
+Underfull \hbox (badness 10000) in paragraph at lines 439--441
+
+ []
+
+./SNRFRB_April30_MNRAS.tex:444: Undefined control sequence.
 <recently read> \ms 
                     
-l.446 ...ms. In the cosmological case, if the $\ms
+l.444 ...ms. In the cosmological case, if the $\ms
                                                   $ scattering
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -385,7 +386,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--491
+Underfull \hbox (badness 10000) in paragraph at lines 473--489
 
  []
 
@@ -393,25 +394,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 475--491
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Underfull \hbox (badness 3019) in paragraph at lines 81--85
+Underfull \hbox (badness 3019) in paragraph at lines 73--77
 \OT1/cmr/m/n/9 Aka-hori T., Car-retti E., Gaensler B. M., Goo-bar
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 105--107
+Underfull \hbox (badness 1087) in paragraph at lines 97--99
 []\OT1/cmr/m/n/9 Rane A., Lorimer D. R., Bates S. D., Mc-Mann N.,
  []
 
-) [5] (./SNRFRB_April30_MNRAS.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[5
+
+] (./SNRFRB_April30_MNRAS.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3287 strings out of 493315
- 43338 string characters out of 6137904
- 123149 words of memory out of 5000000
- 6662 multiletter control sequences out of 15000+600000
+ 3278 strings out of 493315
+ 42989 string characters out of 6137904
+ 121972 words of memory out of 5000000
+ 6654 multiletter control sequences out of 15000+600000
  20163 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,22n,34p,1724b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -442,7 +449,7 @@ t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 382067 bytes).
+Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 382073 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream

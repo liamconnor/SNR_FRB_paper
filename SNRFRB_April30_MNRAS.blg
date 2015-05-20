@@ -3,54 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: SNRFRB_April30_MNRAS.aux
 The style file: mn2e.bst
 Database file #1: SNRFRB_April30_MNRAS.bib
-Repeated entry---line 247 of file SNRFRB_April30_MNRAS.bib
- : @article{2012ApJ...760...64M
- :                             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 490 of file SNRFRB_April30_MNRAS.bib
- : @article{2004ApJ...612..375C
- :                             ,
-I'm skipping whatever remains of this entry
 Warning--empty publisher in 2014ira..book.....B
-You've used 22 entries,
+Warning--empty publisher in 1986isra.book.....T
+You've used 27 entries,
             2601 wiz_defined-function locations,
-            681 strings with 8079 characters,
-and the built_in function-call counts, 10142 in all, are:
-= -- 932
-> -- 820
-< -- 13
-+ -- 285
-- -- 285
-* -- 999
-:= -- 1902
+            712 strings with 8934 characters,
+and the built_in function-call counts, 11889 in all, are:
+= -- 1108
+> -- 913
+< -- 16
++ -- 315
+- -- 315
+* -- 1157
+:= -- 2228
 add.period$ -- 0
-call.type$ -- 22
-change.case$ -- 184
-chr.to.int$ -- 22
-cite$ -- 23
-duplicate$ -- 249
-empty$ -- 369
-format.name$ -- 317
-if$ -- 1813
+call.type$ -- 27
+change.case$ -- 214
+chr.to.int$ -- 27
+cite$ -- 29
+duplicate$ -- 305
+empty$ -- 455
+format.name$ -- 354
+if$ -- 2132
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 70
-num.names$ -- 88
-pop$ -- 145
+missing$ -- 29
+newline$ -- 85
+num.names$ -- 108
+pop$ -- 168
 preamble$ -- 1
-purify$ -- 205
+purify$ -- 240
 quote$ -- 0
-skip$ -- 332
+skip$ -- 395
 stack$ -- 0
-substring$ -- 417
-swap$ -- 28
+substring$ -- 516
+swap$ -- 33
 text.length$ -- 2
-text.prefix$ -- 95
+text.prefix$ -- 105
 top$ -- 0
-type$ -- 195
-warning$ -- 1
-while$ -- 84
+type$ -- 237
+warning$ -- 2
+while$ -- 103
 width$ -- 0
-write$ -- 220
-(There were 2 error messages)
+write$ -- 269
+(There were 2 warnings)

@@ -23,6 +23,10 @@ p.~22
 {Cordes} J.~M.,  {Bhat} N.~D.~R.,  {Hankins} T.~H.,  {McLaughlin} M.~A.,
   {Kern} J.,  2004, \apj, 612, 375
 
+\bibitem[\protect\citeauthoryear{{Dennett-Thorpe} \& {de
+  Bruyn}}{{Dennett-Thorpe} \& {de Bruyn}}{2002}]{2002Natur.415...57D}
+{Dennett-Thorpe} J.,  {de Bruyn} A.~G.,  2002, \nat, 415, 57
+
 \bibitem[\protect\citeauthoryear{{Falcke} \& {Rezzolla}}{{Falcke} \&
   {Rezzolla}}{2014}]{2014A&A...562A.137F}
 {Falcke} H.,  {Rezzolla} L.,  2014, \aap, 562, A137
@@ -31,6 +35,10 @@ p.~22
   {Smith}}{{Kuzmin} et~al.}{2008}]{2008A&A...483...13K}
 {Kuzmin} A.,  {Losovsky} B.~Y.,  {Jordan} C.~A.,    {Smith} F.~G.,  2008, \aap,
   483, 13
+
+\bibitem[\protect\citeauthoryear{{Loeb}, {Shvartzvald} \& {Maoz}}{{Loeb}
+  et~al.}{2014}]{2014MNRAS.439L..46L}
+{Loeb} A.,  {Shvartzvald} Y.,    {Maoz} D.,  2014, \mnras, 439, L46
 
 \bibitem[\protect\citeauthoryear{{Lorimer}, {Bailes}, {McLaughlin}, {Narkevic}
   \& {Crawford}}{{Lorimer} et~al.}{2007}]{2007Sci...318..777L}
@@ -44,12 +52,19 @@ p.~22
 \bibitem[\protect\citeauthoryear{{Lyubarsky}}{{Lyubarsky}}{2014}]{2014MNRAS.442L...9L}
 {Lyubarsky} Y.,  2014, \mnras, 442, L9
 
+\bibitem[\protect\citeauthoryear{{McQuinn}}{{McQuinn}}{2014}]{2014ApJ...780L..33M}
+{McQuinn} M.,  2014, \apjl, 780, L33
+
 \bibitem[\protect\citeauthoryear{{Mickaliger}, {McLaughlin}, {Lorimer},
   {Langston}, {Bilous}, {Kondratiev}, {Lyutikov}, {Ransom} \&
   {Palliyaguru}}{{Mickaliger} et~al.}{2012}]{2012ApJ...760...64M}
 {Mickaliger} M.~B.,  {McLaughlin} M.~A.,  {Lorimer} D.~R.,  {Langston} G.~I.,
   {Bilous} A.~V.,  {Kondratiev} V.~I.,  {Lyutikov} M.,  {Ransom} S.~M.,
   {Palliyaguru} N.,  2012, \apj, 760, 64
+
+\bibitem[\protect\citeauthoryear{{Narayan}}{{Narayan}}{1992}]{1992RSPTA.341..151N}
+{Narayan} R.,  1992, Royal Society of London Philosophical Transactions Series
+  A, 341, 151
 
 \bibitem[\protect\citeauthoryear{{Oppermann}, {Junklewitz}, {Greiner},
   {En{\ss}lin}, {Akahori}, {Carretti}, {Gaensler}, {Goobar}, {Harvey-Smith},
@@ -64,12 +79,12 @@ p.~22
   {Connor}}{2015}]{2015arXiv150101341P}
 {Pen} U.-L.,  {Connor} L.,  2015, ArXiv e-prints
 
+\bibitem[\protect\citeauthoryear{{Pen} \& {Levin}}{{Pen} \&
+  {Levin}}{2014}]{2014MNRAS.442.3338P}
+{Pen} U.-L.,  {Levin} Y.,  2014, \mnras, 442, 3338
+
 \bibitem[\protect\citeauthoryear{{Petroff}}{{Petroff}}{2014}]{2014arXiv1412.0342P}
 {Petroff} E. e.~a.,  2014, ArXiv e-prints 1412.0342
-
-\bibitem[\protect\citeauthoryear{{Pfahl} \& {Loeb}}{{Pfahl} \&
-  {Loeb}}{2004}]{2004ApJ...615..253P}
-{Pfahl} E.,  {Loeb} A.,  2004, \apj, 615, 253
 
 \bibitem[\protect\citeauthoryear{{Potter}, {Staveley-Smith}, {Reville}, {Ng},
   {Bicknell}, {Sutherland} \& {Wagner}}{{Potter}
@@ -98,6 +113,11 @@ p.~22
 {Taylor} M.,  {Cinabro} D.,  {Dilday} B.,  {Galbany} L.,  {Gupta} R.~R.,
   {Kessler} R.,  {Marriner} J.,  {Nichol} R.~C.,  {Richmond} M.,  {Schneider}
   D.~P.,    {Sollerman} J.,  2014, \apj, 792, 135
+
+\bibitem[\protect\citeauthoryear{{Thompson}, {Moran} \& {Swenson}}{{Thompson}
+  et~al.}{1986}]{1986isra.book.....T}
+{Thompson} A.~R.,  {Moran} J.~M.,    {Swenson} G.~W.,  1986, {Interferometry
+  and synthesis in radio astronomy}
 
 \bibitem[\protect\citeauthoryear{{Thornton}}{{Thornton}}{2013}]{2013Sci...341...53T}
 {Thornton} D. e.~a.,  2013, Science, 341, 53
