@@ -17,14 +17,8 @@
 \usepackage{amssymb}
 \def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
 
-% Note from Ue-Li: Primordial spin-down age is unknown, but this is very important for our
-% DM distribution. We need to make clear why we do not expect lots of low DM FRBs. 
-% The pulsar starts with zero spin down, i.e. constant period, say 3-100 ms. This lasts for 
-% 1-100 years. This is the scale that sets our expected DM.
-% Fix Emily Petroff's citation issue.
-% Maybe re-emphasize standard candle business. 
 
-\title{Non-Cosmological FRBs from Young Supernova Remnant Pulsars}
+\title{Non-Cosmological FRB's from Young Supernova Remnant Pulsars}
 \author[Connor et al.]{
 Liam Connor$^{1,2,3}$\thanks{E-mail:\ connor@astro.utoronto.ca}
 Jonathan Sievers $^{4, 5}$\thanks{E-mail:\ jonathan.sievers@gmail.com}
@@ -65,21 +59,21 @@ $^7$ Perimeter Institute for Theoretical Physics, 31 Caroline St. N., Waterloo, 
 
 \begin{abstract}
 
-We  propose a new extragalactic but non-cosmological explanation for fast radio bursts 
-(FRBs) based on
+We  propose a new extragalactic but non-cosmological explanation for FRB's based on
 very young pulsars in supernova remnants. Within a few hundred years of a 
 core-collapse supernova the ejecta 
 is confined within $\sim$1 pc, providing a high enough column density of free electrons 
-for the observed 500-1500 pc/cm$^3$ of dispersion measure (DM). By extrapolating a Crab-like pulsar toDMs 
+for the observed 500-1500 pc/cm$^3$. By extrapolating a Crab-like pulsar to 
 its infancy in an environment like that of SN 1987A, 
 we hypothesize such an object could emit supergiant pulses sporadically which 
 would be bright enough to be seen at a few hundred megaparsecs. In this scenario Faraday
-rotation at the source gives rotation measures (RMs) much larger than the expected
-cosmological contribution.  If the emission were pulsar-like, then the polarization 
+rotation at the source gives RM's much larger than the expected
+cosmological contribution.  If the emission were pulsar-like, then the polarization  % Reword, don't like this
 vector could swing over the duration of the burst, which is not expected from 
 non-rotating objects.
 In this model, the scattering,
-large DM, and commensurate RM all come from one place which is not the case for the cosmological
+large DM, and commensurate RM all come from one place 
+ which is not the case for the cosmological
 interpretation.  The model also provides
 testable predictions of the flux distribution and repeat rate of fast radio bursts, and could be further
 verified by spatial coincidence with optical supernovae of the past several decades. 
@@ -107,38 +101,38 @@ FRB, supernova remnants, pulsar, giant pulse
 
 \section{Introduction}
 %\\
-The mystery of fast radio bursts (FRBs) has garnered
+The mystery of fast radio bursts (FRB's) has garnered
 substantial interest from the radio community.
 High-energy astrophysicists have tried to model their burst source, 
 observers would like to measure a large population of them, and cosmologists
-hope to use them as a probe of the intergalactic medium (IGM). However their relative scarcity 
+hope to use them as a probe of the IGM. However their relative scarcity 
 (only $\sim$ dozen have been observed so far) and their apparent 
 transient nature have meant we still do not know their position on the sky
 to better than a few arcminutes, and their radial position could be anything
 from terrestrial to cosmological.
 
 These objects are
-highly dispersed, with DMs ($\sim 500$-1200 pc/cm$^3$) far exceeding
-the expected contribution from our own galaxy's interstellar medium (ISM) and leading to the
-interpretation that FRBs are cosmological \citep{2007Sci...318..777L, 2013Sci...341...53T}. 
+highly dispersed, with DM's ($\sim 500$-1200 pc/cm$^3$) far exceeding
+the expected contribution from our own galaxy's ISM and leading to the
+interpretation that FRB's are cosmological \citep{2007Sci...318..777L, 2013Sci...341...53T}. 
 Various emission mechanisms have been proposed 
 at a wide range of source locations, 
 including merging white dwarfs \citep{2012ApJ...760...64M}
 and neutron stars \citep{2013PASJ...65L..12T},
 blitzars \citep{2014A&A...562A.137F}, 
 magnetars \citep{2015arXiv150101341P, 2014MNRAS.442L...9L}, 
-and flaring Galactic stars \citep{2014MNRAS.439L..46L}.
-Though presently there are more theoretical models for FRBs than actual 
+and flaring galactic stars \citep{2014MNRAS.439L..46L}.
+Though presently there are more theoretical models for FRB's than actual 
 sources discovered, constraints on such theories are rapidly emerging. 
 This is due to recent polarization data, 
 multifrequency coverage, and their being observed by several telescopes
 at various locations on the sky \citep{2014ApJ...780L...2B, 2014arXiv1412.0342P}. 
 
 On top of event rates ($\sim$10$^4$ per day per sky) 
-and high DMs, explanations of FRBs must now
+and high DM's, explanations of FRB's must now
 account for temporal scattering, and polarization states.  They should
 predict or explain Faraday rotation and time dependence of linear polarization.
-The rotation measure of our Galaxy has been mapped, and the
+The rotation measure of our galaxy has been mapped, and the
 intergalactic rotation measure is constrained to be less than 7 rad/m$^2$
 \citep{2015A&A...575A.118O}. 
 The observed temporal scattering is problematic for a IGM intepretation, due 
@@ -153,8 +147,8 @@ can provide 500-2000 pc/cm$^3$ of dispersion if the pulses are observed
 within $\sim100$ years of the core-collapse supernova. In our picture the 
 large DM and scattering all come from the same place, and generically
 accounts for substantial Faraday Rotation and polarization angle
-swings\footnote{\label{disclosure}The authors disclose access to 
-unpublished data prior to making these predictions}. 
+swings\footnote{\label{disclosure}The authors disclose access to unpublished data prior
+  to making these predictions}.
 These are not expected in a cosmological interpretation of the DM.
 
 
@@ -183,7 +177,7 @@ then the radius R(t) $\approx v_{ej} t$. Therefore the DM we expect can be
 calculated as,
 
 \begin{equation}
-\textup{DM} \approx  \frac{\textup{x}_e \textup{M}_{\rm ej}}{m_p \frac{4\pi}{3} v_{\rm ej}^2 t^2}
+\textup{DM} \approx  \frac{\textup{x}_e \textup{M}_{ej}}{m_p \frac{4\pi}{3} v_{ej}^2 t^2}
 \end{equation}
 
 \noindent where x$_e$ is the ionization fraction, 
@@ -194,7 +188,7 @@ $\sim 20\% $, the dispersion measure goes from several
 thousand pc/cm$^3$ immediately
 after the reverse-shock ionization, to several hundred pc/cm$^3$ after 50-100 years.
 A similar treatment by \cite{2014ApJ...796...82Z} found that a possible pulsar in SNR 
-1987a could have DMs between 100-6000 pc/cm$^3$, after $\sim 25$ years.
+1987a could have DM's between 100-6000 pc/cm$^3$, after $\sim 25$ years.
 
 %\\
 Another potentially important feature of the SNR environment is its magnetic
@@ -202,7 +196,7 @@ field.
 The exact magnitude of any detection Faraday rotation has implications for the possible source location. For
 instance in the circumnuclear picture, one would expect rotation measures 
 $\sim10^{3-5}$ rad/m$^2$, similar to that of the Milky Way's
-Galactic center magnetar J1745-29. In the cosmological scenario, if the Faraday 
+galactic center magnetar J1745-29. In the cosmological scenario, if the Faraday 
 rotation
 came from the same place as the DM - namely the intergalactic medium -
 then we would only expect a few rad/m$^2$ of RM \cite{2015A&A...575A.118O}. 
@@ -212,7 +206,7 @@ by an angle $\phi = $RM$\, \lambda^2$, where
 
 \begin{equation}
 \textup{RM} = \frac{e^3}{2\pi m^2 c^4} \int_0^{L} n_e(l) B_\parallel (l) dl
-\end{equation}.
+\end{equation}
 
 We can therefore make a rough estimate of the rotation measure of a remnant 
 pulsar with dispersion measure DM. Using 
@@ -221,30 +215,30 @@ pulsar with dispersion measure DM. Using
 \begin{equation}
 \textup{RM} \approx 0.81\,\textup{rad} / m^2 \, \times \frac{\left < B_{\parallel} \right >}
 {1 \mu G} \cdot \frac{\textup{DM}}{1 pc/cm^3} 
-\end{equation}.
+\end{equation}
 
 Though there is a large uncertainty in evolution of the magnetic field strength and added
 uncertainty in $\langle B_{\parallel} \rangle$ given $B_{\parallel}$ is not necessarily positive, 
 typical values in our galaxy are 0.2 - 1$\mu G$. For instance the Crab and Vela have 
 $ \sim 0.92 \mu G$ and $\sim 0.56 \mu G$, respectively. 
-This gives RMs between $\sim 80-1200$
-rad/m$^2$ for a SNR pulsar with FRB-like DMs.
+This gives RM's between $\sim 80-1200$
+rad/m$^2$ for a SNR pulsar with FRB-like DM's.
 %and this is consistent with the observed Faraday rotated burst.
 
 \subsection{Event Rates}
 
 The daily FRB rate has been estimated at $3.3^{+5.0}_{-2.5}\times10^3$ sky$^{-1}$ 
 \citep{2015arXiv150500834R}. If we start from the local core-collapse supernova
-event rate, $\Gamma_{CC}$, and include objects out to some distance $d_{\rm max}$,
+event rate, $\Gamma_{CC}$, and include objects out to some distance $d_{max}$,
 we expect the following daily FRB rate, 
 
 \begin{equation}
-\Gamma_{FRB} \sim  \frac{4}{3} \pi d_{\rm max}^3 \times \Gamma_{\rm CC} \times
- \eta \, \tau_{\rm ion} \gamma_{\rm GP}
+\Gamma_{FRB} \sim  \frac{4}{3} \pi d_{max}^3 \times \Gamma_{CC} \times
+ \eta \, \tau_{ion} \gamma_{GP}
 \end{equation}
 
 \noindent where $\tau_{ion}$ is the window in years when the SNR is sufficiently
-dense and ionized to provide the observed DMs and $\gamma_{GP}$
+dense and ionized to provide the observed DM's and $\gamma_{GP}$
 is the daily rate of giant pulses brighter than $\sim 500$ mJy, and $\eta$
 is the number of core-collapse supernovae that leave behind a visible pulsar. 
 From \cite{2014ApJ...792..135T} we know  
@@ -252,7 +246,7 @@ $\Gamma_{CC}\sim3 \times 10^{-4}$ day$^{-1}$ ($h^{-1}$Mpc)$^{-3}$,
 so if we take $d_{max}$ to be 100 $h^{-1}$Mpc and $\tau_{ion}\sim100$ years,
 we require one giant pulse every 10-20 days, assuming one fifth of this SNe population
 leaves behind a visible pulsar.
-In Fig. \ref{FIG-RATE} 
+In figure \ref{FIG-RATE} 
 we show the event rate as a function of distance, varying two parameters: the 
 effective high-DM window and the rate of giant pulses. 
 
@@ -264,7 +258,7 @@ effective high-DM window and the rate of giant pulses.
    event rate, plotted against distance.
    We assume early in the pulsar's life there is a window, either 
    25, 100, or 500 years when the SNR can provide a large enough electron 
-   column density to explain the high DMs of the observed bursts. We also
+   column density to explain the high DM's of the observed bursts. We also
    include a rate of giant pulses of either one per day or one per hundred
    days. We have assumed 20$\%$ of core-collapse supernovae leave behind
    a visible pulsar.
@@ -272,14 +266,14 @@ effective high-DM window and the rate of giant pulses.
    found by \protect\cite{2015arXiv150500834R}.}
 \end{figure}
 
-From Fig. \ref{FIG-RATE} we can see even in our most conservative estimate, when
+From this figure we can see even in our most conservative estimate, when
 the SNR only has a 25 year window and emits giant pulses once every
 100 days, the volume necessary for the highest daily FRB rate is still non-cosmological.
 By this we mean the DM contribution from the IGM is less than $\sim 200$ pc/cm$^3$.
-If the SNR FRBs are within a hundred $h^{-1}$Mpc then DM$_{IGM}$ is less than 
+If the SNR FRB's are within a hundred $h^{-1}$Mpc then DM$_{IGM}$ is less than 
 $\sim 10 \%$  of the total dispersion of a typical burst.
 
-If FRBs really are giant pulses then they 
+If FRB's really are giant pulses then they 
 should repeat stochastically, and while none of the radio follow-ups for
 observed sources has seen an FRB repeat, this could be because they
 have not observed for long enough. We discuss this further in section 
@@ -293,8 +287,8 @@ brighter than the pulsar's regular emission. Some of these objects exhibit
 a rare tail of \textit{supergiant} pulses, whose brightness temperatures 
 exceed the Planck temperature, $\gtrsim10^{32}$ K \citep{2004ApJ...612..375C}.
 Indeed the largest
-known brightness temperature, T$_{\rm b}$, in the universe came from a giant pulse from the Crab,
- with T$_{\rm b}\sim2\times10^{41}$ K \citep{2014ApJ...792..135T}. Though there
+known brightness temperature in the universe came from a giant pulse from the Crab,
+ with T$_b\sim2\times10^{41}$ K \citep{2014ApJ...792..135T}. Though there
 is only $\sim100$ hours of published giant pulse data from the Crab, it is known
 that the supergiant pulse tail does not obey the standard power-law fall off
 in amplitude \citep{2012ApJ...760...64M}.
@@ -313,8 +307,8 @@ brighter than an average pulse, it is negligible compared to a
 pulsar's total rotational energy, E$_{rot} \sim 10^{49-50}$ ergs and
 even the pulsar's spin-down luminosity. We
 also point out that given its relative proximity, this model requires
-a couple orders of magnitude less energy than cosmological FRBs,
-located beyond a Gpc. 
+a couple orders of magnitude less energy than cosmological FRB's,
+located beyond a Gpc. $\times$
 
 % Please add the following required packages to your document preamble:
 % \usepackage{multirow}
@@ -336,16 +330,13 @@ located beyond a Gpc.
 
 \end{tabularx}
 \caption{This table summarizes a number of FRB models by classifying them as cosmological, 
-extragalactic but non-cosmological, Galactic, and terrestrial. 
-The seven columns are potential observables of FRBs and each
+extragalactic but non-cosmological, galactic, and terrestrial. 
+The seven columns are potential observables of FRB's and each
  row gives their consequence for a given model 
- (Blitzars \protect\citep{2014A&A...562A.137F}, compact object mergers \protect\citep{2012ApJ...760...64M, 2013PASJ...65L..12T},
- exploding primordial blackholes \protect\citep{2014PhRvD..90l7503B}, 
-bursts from magnetars \protect\citep{2014MNRAS.442L...9L}, 
-edge-on disk galaxies \protect\citep{2015arXiv150400200X}, 
-circumnuclear magnetars \protect\citep{2015arXiv150101341P}, 
- supernova remnant pulsars, stellar flares \protect\citep{2014MNRAS.439L..46L}, and terrestrial RFI 
- \protect\citep{2015arXiv150305245H}.). Since scintillation
+ (Blitzars \citep{2014A&A...562A.137F}, compact object mergers \citep{2012ApJ...760...64M, 2013PASJ...65L..12T},
+ exploding primordial blackholes \citep{2014PhRvD..90l7503B}, bursts from magnetars \citep{2014MNRAS.442L...9L}, edge-on disk galaxies \citep{2015arXiv150400200X}, circumnuclear magnetars \citep{2015arXiv150101341P}, 
+ supernova remnant pulsars, stellar flares \citep{2014MNRAS.439L..46L}, and terrestrial RFI 
+ \citep{2015arXiv150305245H}.). Since scintillation
 only affects unresolved images, cosmological sources that are not scattered near the source
 will not scintillate in our galaxy, while non-cosmological sources whose screens are intrinsic will. 
 For Faraday rotation and scintillation
@@ -355,17 +346,17 @@ could introduce a more local Faraday effect or a scattering screen.
 Even though
 all models have to explain the observed 500-1500 pc/cm$^3$, some models predict a wider 
 range of DM. For instance, in the circumnuclear magnetar or edge-on disk disk scenarios there 
-ought to be bursts at relatively low DM that simply have not been identified as FRBs. In our supernova 
-remnant model DMs should be very large early in the pulsar's life, though this window is short and 
+ought to be bursts at relatively low DM that simply have not been identified as FRB's. In our supernova 
+remnant model DM's should be very large early in the pulsar's life, though this window is short and 
 therefore such high DM bursts would be rare.}
 \end{table*}
 
-The polarization properties of giant pulses are also consistent with those
-of observed FRBs. Giant pulses are known to be highly polarized, 
+The polarization properties of giant pulses are also consistent with
+observed those of FRB's. Giant pulses are known to be highly polarized, 
 switching between strong Stokes V and purely linearly polarized states. 
 The only published FRB with full-pol information was FRB 140514 was 
 found to have $\sim20\%$ circular polarization and no detectable 
-linear polarization \citep{2014arXiv1412.0342P}.  We expect some FRBs
+linear polarization \citep{2014arXiv1412.0342P}.  We expect some FRB's
 to be linearly polarized, and potentially exhibit polarization angle
 swings over the burst duration.
 
@@ -374,14 +365,14 @@ swings over the burst duration.
 
 In table 1 we summarize the observational consequences
 of ours and several other models as best we can. As one might expect,
-the most striking differences in predictions has to do with the distance of FRBs,
+the most striking differences in predictions has to do with the distance of FRB's,
 for example the cosmological FRB models differ mainly just in their expected 
 counterpart. 
 
 The young SNR pulsar model makes several predictions that will
 be addressed with more data, particularly with full polarization 
 observations and large field-of-view surveys. 
-The latter will provide a large sample of FRBs whose flux and DM statistics
+The latter will provide a large sample of FRB's whose flux and DM statistics
  can give us information about their location. Since in the SNR FRB picture
 most of the DM is intrinsic, the sources do not need to be at cosmological 
 distances. This means the flux distribution is given by a Euclidean universe
@@ -394,14 +385,14 @@ UTMOST\footnote{http://www.caastro.org/news/2014-utmost},
 per year, which would allow for detailed population statistics.
 %\\
 
-Since we have proposed that FRBs come from young pulsars 
+Since we have proposed that FRB's come from young pulsars 
 in supernova remnants, it is possible that the corresponding 
 supernova was observed in recent decades in the optical. If the pulsars
 were younger than $\sim$60 years old they could be localized with VLBI
 measurements and matched against catalogued type II supernovae. 
 %\\
 
-We also point out that while FRBs seem not to repeat regularly, 
+We also point out that while FRB's seem not to repeat regularly, 
 it is not known that they never repeat. Though the statistics 
 of giant pulses from local pulsars are mostly Poisson \citep{1999ApJ...517..460S},
 it is possible that 
@@ -409,11 +400,11 @@ the supergiant pulses we require from very young SNR pulsars are not. If their
 statistics were of a Poisson process then there are already limits on the repeat rate, 
 given the $\sim100$ hours of follow up, however if their statistics were more like
 earthquakes, the brightest pulses could burst intermittently and turn off
-for extended periods. It is possible that FRBs could repeat every 5-500 days. 
+for extended periods. It is possible that FRB's could repeat every 5-500 days. 
 If they were to repeat,
-it is possible that their DMs, RMs, and scattering properties could 
+it is possible that their DM's, RM's, and scattering properties could 
 change noticeably on months/years timescales. Unlike standard pulsars 
-whose RMs and DMs are constant to a couple decimal places, young 
+whose RM's and DM's are constant to a couple decimal places, young 
 SNR pulsars like the Crab and Vela have shown significant - and sometimes
 correlated - variation in such properties \citep{1988A&A...202..166R, 2008A&A...483...13K}.
 We also predict that such repeated 
@@ -421,36 +412,36 @@ bursts could have vastly different polarization states, similar to the giant
 pulses from pulsars in our own galaxy. 
 Depending on the relationship between the giant pulse rate and SNR
 age and environment, there may exist a short window in the pulsar's life when 
-DMs are larger than could be achieved in the IGM at redshifts $z\lesssim2.5$. 
+DM's are larger than could be achieved in the IGM at redshifts $z\lesssim2.5$. 
 Na\"ively we would expect the average pulse 
 energy to decay with time along with its period. 
 It would be therefore possible, albeit rare, that an FRB have a dispersion 
-measure of $\sim10^4$ pc/cm$^3$. In general we expect the distribution of DMs 
-to be peaked somewhere around the observed FRBs, but with weight at intermediate 
-DMs when the ejecta has significantly expanded and at very high DMs.  
+measure of $\sim10^4$ pc/cm$^3$. In general we expect the distribution of DM's 
+to be peaked somewhere around the observed FRB's, but with weight at intermediate 
+DM's when the ejecta has significantly expanded and at very high DM's.  
  
 Another interesting path for studying extragalactic radio bursts, 
 cosmological or otherwise, is scintillation. Only objects of small angular
 size scintillate, which is why stars twinkle and planets do not: turbulent cells
 in the ionosphere can resolve planets but not stars. The same is true for extragalactic
-objects scintillating in the Milky Way, where objects larger than $\sim10^{-7}$ 
+objects scintillating in the milky way, where objects larger than $\sim10^{-7}$ 
 arc seconds do not scintillate at $\sim$GHz. 
 This is why so few quasars scintillate \citep{2002Natur.415...57D}. 
 
 While several explanations for this scintillation exist 
 \citep{1992RSPTA.341..151N, 2014MNRAS.442.3338P}, we are  
 concerned with the observational effects and not the physics. 
-Using \cite{1986isra.book.....T} FRBs
+Using \cite{1986isra.book.....T} 
 we can estimate the angular size of an extragalactic object,
 
 \begin{equation}
 \label{eqn-scint}
-\theta \approx \left ( \frac{2 c \tau \, (R_{\rm obj} - R_{\rm sn})}{R_{\rm sn}R_{\rm obj}} \right )^{-1/2}
+\theta \approx \left ( \frac{2 c \tau \, (R_{obj} - R_{sn})}{R_{sn}R_{obj}} \right )^{-1/2}
 \end{equation}
 \\
 
 \noindent where $R_{obj}$ is the distance to the source, $R_{sn}$ is the distance 
-to the screen, and $\tau$ is the scattering timescale. For FRBs we 
+to the screen, and $\tau$ is the scattering timescale. For of FRB's we 
 take $\tau$ to be $\sim10$ ms. In the cosmological case, if the ms scattering
 were from an extended galactic disk along the line of sight  (see \citet{2014ApJ...780L..33M})
 halfway between
@@ -458,38 +449,39 @@ us and the source, then the angular broadening
 of an object at 2 Gpc is $\sim150$ microarcseconds. If the screen were within 
 1 kpc of the same object then the broadening is $\sim80$ nanoarcseconds. 
 Therefore scintillation from our own galaxy should only occur for cosmological 
-FRBs whose millisecond scattering is close to the source. For an SNR FRB the 
+FRB's whose millisecond scattering is close to the source. For an SNR FRB the 
 screen would have to be within a few hundred parsecs of the object, which we 
 generically expect. We include this feature in table 1 where each 
 column is estimated based on the medium that is causing the high dispersion measure, 
 e.g. the IGM for cosmological models.
 
+%\section{Applications}
 
 \section{Conclusions}
-Evidence is emerging suggesting FRBs are not only extraterrestrial
-but extragalactic. Though the simplest interpretation of their high DMs 
+Evidence is piling on suggesting FRB's are not only extraterrestrial
+but extragalactic. Though the simplest interpretation of their high DM's 
 is a cosmological one, we find this model less compelling in the light of 
-scattering measurements and potential Faraday rotation (see footnote $^1$)
-and in this letter we offer a 
+scattering measurements and potential Faraday rotation$^\ref{disclosure}$
+  and in this letter we offer a 
 more nearby solution. 
 We have gone through
 a model in which fast radio bursts are really supergiant pulses from 
 extragalactic supernova remnant pulsars, within a couple hundred megaparsecs. 
 The SNR environment is sufficiently
-dense and ionized to provide DMs $\gtrsim 500$pc/cm$^3$ as well as 
-RMs $\gtrsim 50$ rad/m$^2$, only the first of which could be replicated by the IGM. 
+dense and ionized to provide DM's $\gtrsim 500$pc/cm$^3$ as well as 
+RM's $\gtrsim 50$ rad/m$^2$, only the first of which could be replicated by the IGM. 
 
 The nebula could also provide $\sim$ms scattering at 1 GHz, as has been 
-observed in Galactic SNR pulsars. 
+observed in galactic supernova remnant pulsars. 
 That makes this picture self-contained in the sense that
 the young remnant environment can account for the dispersion 
-and scattering measure seen in FRBs.  It predicts a higher Faraday
+and scattering measure seen in FRB's.  It predicts a higher Faraday
 rotation than the IGM, but not as high as galactic centers.  The
 repetition rate is related to the distance, and could be from days to
 years.  
 By extrapolating Crab-like giant pulses back to the pulsar's first century or so,
 we have proposed that such objects can emit extremely energetic bursts sporadically. 
-If these are similar to giant pulses from Galactic pulsars, they could be highly polarized, 
+If these are similar to giant pulses from galactic pulsars, they could be highly polarized, 
 either linearly or circularly, and if they were to repeat their polarization state may 
 change drastically. Given the object's rotating nature, polarization
  angles would be likely to swing during the pulse (we
