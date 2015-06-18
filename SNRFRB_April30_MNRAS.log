@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 JUN 2015 18:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  18 JUN 2015 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -295,7 +295,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 
 
 ]
-<FRB_SNR_rate.png, id=22, 722.7pt x 433.62pt>
+<FRB_SNR_rate.png, id=23, 722.7pt x 433.62pt>
 File: FRB_SNR_rate.png Graphic file (type png)
  <use FRB_SNR_rate.png>
 Package pdftex.def Info: FRB_SNR_rate.png used on input line 262.
@@ -306,7 +306,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 262--272
  []
 
 [2]
-Overfull \hbox (40.32092pt too wide) in paragraph at lines 337--360
+Overfull \hbox (40.32092pt too wide) in paragraph at lines 337--363
  [][] 
  []
 
@@ -314,22 +314,16 @@ Overfull \hbox (40.32092pt too wide) in paragraph at lines 337--360
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 <./FRB_SNR_rate.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
+Underfull \hbox (badness 10000) in paragraph at lines 452--454
 
  []
 
 
-Underfull \vbox (badness 1377) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--498
+Underfull \hbox (badness 10000) in paragraph at lines 485--501
 
  []
 
-(./SNRFRB_April30_MNRAS.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
+(./SNRFRB_April30_MNRAS.bbl [4]
 Underfull \hbox (badness 3019) in paragraph at lines 85--89
 \OT1/cmr/m/n/9 Aka-hori T., Car-retti E., Gaensler B. M., Goo-bar
  []
@@ -343,11 +337,11 @@ Underfull \hbox (badness 1087) in paragraph at lines 110--112
 Here is how much of TeX's memory you used:
  3283 strings out of 493315
  43167 string characters out of 6137904
- 122322 words of memory out of 5000000
+ 123993 words of memory out of 5000000
  6659 multiletter control sequences out of 15000+600000
  20163 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,22n,34p,1713b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,22n,34p,1852b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
@@ -375,7 +369,7 @@ b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 384831 bytes).
+Output written on SNRFRB_April30_MNRAS.pdf (5 pages, 384549 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
