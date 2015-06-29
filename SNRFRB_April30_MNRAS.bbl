@@ -1,7 +1,6 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\citeauthoryear{{Bandura}}{{Bandura}}{2014}]{2014SPIE.9145E..%
-22B}
+\bibitem[\protect\citeauthoryear{{Bandura}}{{Bandura}}{2014}]{2014SPIE.9145E..22B}
 {Bandura} K. e.~a.,  2014, in Society of Photo-Optical Instrumentation
   Engineers (SPIE) Conference Series Vol.~9145 of Society of Photo-Optical
   Instrumentation Engineers (SPIE) Conference Series, {Canadian Hydrogen
@@ -11,6 +10,13 @@ p.~22
 \bibitem[\protect\citeauthoryear{{Barrau}, {Rovelli} \& {Vidotto}}{{Barrau}
   et~al.}{2014}]{2014PhRvD..90l7503B}
 {Barrau} A.,  {Rovelli} C.,    {Vidotto} F.,  2014, \prd, 90, 127503
+
+\bibitem[\protect\citeauthoryear{{Becker}, {Kramer}, {Jessner}, {Taam}, {Jia},
+  {Cheng}, {Mignani}, {Pellizzoni}, {de Luca}, {S{\l}owikowska} \&
+  {Caraveo}}{{Becker} et~al.}{2006}]{2006ApJ...645.1421B}
+{Becker} W.,  {Kramer} M.,  {Jessner} A.,  {Taam} R.~E.,  {Jia} J.~J.,  {Cheng}
+  K.~S.,  {Mignani} R.,  {Pellizzoni} A.,  {de Luca} A.,  {S{\l}owikowska} A.,
+    {Caraveo} P.~A.,  2006, \apj, 645, 1421
 
 \bibitem[\protect\citeauthoryear{{Bower}, {Deller}, {Demorest}, {Brunthaler},
   {Eatough}, {Falcke}, {Kramer}, {Lee} \& {Spitler}}{{Bower}
@@ -28,6 +34,10 @@ p.~22
 {Cordes} J.~M.,  {Bhat} N.~D.~R.,  {Hankins} T.~H.,  {McLaughlin} M.~A.,
   {Kern} J.,  2004, \apj, 612, 375
 
+\bibitem[\protect\citeauthoryear{{Cordes} \& {Wasserman}}{{Cordes} \&
+  {Wasserman}}{2015}]{2015arXiv150100753C}
+{Cordes} J.~M.,  {Wasserman} I.,  2015, ArXiv e-prints
+
 \bibitem[\protect\citeauthoryear{{Dennett-Thorpe} \& {de
   Bruyn}}{{Dennett-Thorpe} \& {de Bruyn}}{2002}]{2002Natur.415...57D}
 {Dennett-Thorpe} J.,  {de Bruyn} A.~G.,  2002, \nat, 415, 57
@@ -39,6 +49,10 @@ p.~22
 \bibitem[\protect\citeauthoryear{{Hippke}, {Domainko} \& {Learned}}{{Hippke}
   et~al.}{2015}]{2015arXiv150305245H}
 {Hippke} M.,  {Domainko} W.~F.,    {Learned} J.~G.,  2015, ArXiv e-prints
+
+\bibitem[\protect\citeauthoryear{{Kashiyama}, {Ioka} \&
+  {M{\'e}sz{\'a}ros}}{{Kashiyama} et~al.}{2013}]{2013ApJ...776L..39K}
+{Kashiyama} K.,  {Ioka} K.,    {M{\'e}sz{\'a}ros} P.,  2013, \apjl, 776, L39
 
 \bibitem[\protect\citeauthoryear{{Kuzmin}, {Losovsky}, {Jordan} \&
   {Smith}}{{Kuzmin} et~al.}{2008}]{2008A&A...483...13K}
@@ -58,12 +72,10 @@ p.~22
   {Goldreich}}{2014}]{2014ApJ...785L..26L}
 {Luan} J.,  {Goldreich} P.,  2014, \apjl, 785, L26
 
-\bibitem[\protect\citeauthoryear{{Lyubarsky}}{{Lyubarsky}}{2014}]{2014MNRAS.44%
-2L...9L}
+\bibitem[\protect\citeauthoryear{{Lyubarsky}}{{Lyubarsky}}{2014}]{2014MNRAS.442L...9L}
 {Lyubarsky} Y.,  2014, \mnras, 442, L9
 
-\bibitem[\protect\citeauthoryear{{McQuinn}}{{McQuinn}}{2014}]{2014ApJ...780L..%
-33M}
+\bibitem[\protect\citeauthoryear{{McQuinn}}{{McQuinn}}{2014}]{2014ApJ...780L..33M}
 {McQuinn} M.,  2014, \apjl, 780, L33
 
 \bibitem[\protect\citeauthoryear{{Mickaliger}, {McLaughlin}, {Lorimer},
@@ -73,8 +85,7 @@ p.~22
   {Bilous} A.~V.,  {Kondratiev} V.~I.,  {Lyutikov} M.,  {Ransom} S.~M.,
   {Palliyaguru} N.,  2012, \apj, 760, 64
 
-\bibitem[\protect\citeauthoryear{{Narayan}}{{Narayan}}{1992}]{1992RSPTA.341..1%
-51N}
+\bibitem[\protect\citeauthoryear{{Narayan}}{{Narayan}}{1992}]{1992RSPTA.341..151N}
 {Narayan} R.,  1992, Royal Society of London Philosophical Transactions Series
   A, 341, 151
 
@@ -95,8 +106,7 @@ p.~22
   {Levin}}{2014}]{2014MNRAS.442.3338P}
 {Pen} U.-L.,  {Levin} Y.,  2014, \mnras, 442, 3338
 
-\bibitem[\protect\citeauthoryear{{Petroff}}{{Petroff}}{2014}]{2014arXiv1412.03%
-42P}
+\bibitem[\protect\citeauthoryear{{Petroff}}{{Petroff}}{2014}]{2014arXiv1412.0342P}
 {Petroff} E. e.~a.,  2014, ArXiv e-prints 1412.0342
 
 \bibitem[\protect\citeauthoryear{{Potter}, {Staveley-Smith}, {Reville}, {Ng},
@@ -132,12 +142,10 @@ p.~22
 {Thompson} A.~R.,  {Moran} J.~M.,    {Swenson} G.~W.,  1986, {Interferometry
   and synthesis in radio astronomy}
 
-\bibitem[\protect\citeauthoryear{{Thornton}}{{Thornton}}{2013}]{2013Sci...341.%
-..53T}
+\bibitem[\protect\citeauthoryear{{Thornton}}{{Thornton}}{2013}]{2013Sci...341...53T}
 {Thornton} D. e.~a.,  2013, Science, 341, 53
 
-\bibitem[\protect\citeauthoryear{{Totani}}{{Totani}}{2013}]{2013PASJ...65L..12%
-T}
+\bibitem[\protect\citeauthoryear{{Totani}}{{Totani}}{2013}]{2013PASJ...65L..12T}
 {Totani} T.,  2013, \pasj, 65, L12
 
 \bibitem[\protect\citeauthoryear{{Xu} \& {Han}}{{Xu} \&

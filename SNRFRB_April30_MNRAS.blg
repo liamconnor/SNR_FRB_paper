@@ -5,45 +5,45 @@ The style file: mn2e.bst
 Database file #1: SNRFRB_April30_MNRAS.bib
 Warning--empty publisher in 2014ira..book.....B
 Warning--empty publisher in 1986isra.book.....T
-You've used 27 entries,
+You've used 33 entries,
             2601 wiz_defined-function locations,
-            712 strings with 8934 characters,
-and the built_in function-call counts, 11889 in all, are:
-= -- 1108
-> -- 913
-< -- 16
-+ -- 315
-- -- 315
-* -- 1157
-:= -- 2228
+            745 strings with 9987 characters,
+and the built_in function-call counts, 14511 in all, are:
+= -- 1353
+> -- 1123
+< -- 18
++ -- 387
+- -- 387
+* -- 1413
+:= -- 2721
 add.period$ -- 0
-call.type$ -- 27
-change.case$ -- 214
-chr.to.int$ -- 27
-cite$ -- 29
-duplicate$ -- 305
-empty$ -- 455
-format.name$ -- 354
-if$ -- 2132
+call.type$ -- 33
+change.case$ -- 262
+chr.to.int$ -- 33
+cite$ -- 35
+duplicate$ -- 368
+empty$ -- 548
+format.name$ -- 436
+if$ -- 2598
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 29
-newline$ -- 85
-num.names$ -- 108
-pop$ -- 168
+missing$ -- 35
+newline$ -- 103
+num.names$ -- 132
+pop$ -- 208
 preamble$ -- 1
-purify$ -- 240
+purify$ -- 294
 quote$ -- 0
-skip$ -- 395
+skip$ -- 481
 stack$ -- 0
-substring$ -- 516
-swap$ -- 33
+substring$ -- 628
+swap$ -- 39
 text.length$ -- 2
-text.prefix$ -- 105
+text.prefix$ -- 129
 top$ -- 0
-type$ -- 237
+type$ -- 291
 warning$ -- 2
-while$ -- 103
+while$ -- 124
 width$ -- 0
-write$ -- 269
+write$ -- 326
 (There were 2 warnings)
