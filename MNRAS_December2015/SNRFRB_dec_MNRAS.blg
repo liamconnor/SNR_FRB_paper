@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SNRFRB_dec_MNRAS.aux
+The style file: mn2e.bst
+Database file #1: SNRFRB_dec_MNRAS.bib
+Warning--empty publisher in 2014ira..book.....B
+Warning--empty publisher in 1986isra.book.....T
+You've used 37 entries,
+            2601 wiz_defined-function locations,
+            768 strings with 11329 characters,
+and the built_in function-call counts, 17584 in all, are:
+= -- 1589
+> -- 1495
+< -- 19
++ -- 522
+- -- 522
+* -- 1749
+:= -- 3303
+add.period$ -- 0
+call.type$ -- 37
+change.case$ -- 323
+chr.to.int$ -- 37
+cite$ -- 39
+duplicate$ -- 409
+empty$ -- 609
+format.name$ -- 577
+if$ -- 3125
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 39
+newline$ -- 115
+num.names$ -- 148
+pop$ -- 266
+preamble$ -- 1
+purify$ -- 359
+quote$ -- 0
+skip$ -- 567
+stack$ -- 0
+substring$ -- 685
+swap$ -- 43
+text.length$ -- 2
+text.prefix$ -- 174
+top$ -- 0
+type$ -- 327
+warning$ -- 2
+while$ -- 137
+width$ -- 0
+write$ -- 363
+(There were 2 warnings)
